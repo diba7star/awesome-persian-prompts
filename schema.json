@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Persian short prompt",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["slug", "category", "sub", "title", "fa", "en", "summary", "tools", "tags"],
+    "properties": {
+      "slug": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+      "category": { "type": "string" },
+      "sub": { "type": "string" },
+      "title": { "type": "string" },
+      "fa": { "type": "string", "maxLength": 600 },
+      "en": { "type": "string", "maxLength": 600 },
+      "summary": { "type": "string" },
+      "tools": { "type": "array", "items": { "enum": ["chatgpt","claude","gemini","deepseek","perplexity","copilot","cursor","midjourney","dalle","leonardo","flux","sora","veo","runway","kling","pika"] }, "minItems": 1 },
+      "tags": { "type": "array", "items": { "type": "string" } }
+    }
+  }
+}

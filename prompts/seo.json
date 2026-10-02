@@ -1,0 +1,1582 @@
+[
+ {
+  "slug": "seo-keyword-ideas-persian",
+  "category": "seo",
+  "sub": "keywords",
+  "title": "ایده‌های کلمه کلیدی",
+  "fa": "برای موضوع [موضوع] در بازار ایران ۳۰ کلمه کلیدی فارسی پیشنهاد بده. آن‌ها را در سه دسته اطلاعاتی، تجاری و محلی جدول کن و برای هر کدام نیت جست‌وجو و یک عنوان مقاله پیشنهادی بنویس.",
+  "en": "Suggest 30 Persian keywords for [topic] in the Iranian market. Group them in a table as informational, commercial and local, and give the search intent and one suggested article title for each.",
+  "summary": "جدول کلمات کلیدی دسته‌بندی‌شده با نیت جست‌وجو برای برنامه‌ریزی محتوا.",
+  "tools": [
+   "chatgpt",
+   "gemini",
+   "deepseek"
+  ],
+  "tags": [
+   "سئو",
+   "کلمه کلیدی",
+   "تحقیق کلمات",
+   "محتوا"
+  ]
+ },
+ {
+  "slug": "seo-long-tail-questions",
+  "category": "seo",
+  "sub": "keywords",
+  "title": "سؤال‌های دم‌بلند کاربران",
+  "fa": "۲۰ سؤالی را که کاربران ایرانی درباره [محصول یا خدمت] در گوگل می‌پرسند فهرست کن؛ از سؤال‌های مبتدی تا خرید. کنار هر سؤال بنویس بهتر است در مقاله، صفحه محصول یا FAQ پاسخ داده شود.",
+  "en": "List 20 questions Iranian users google about [product or service], from beginner to purchase stage. Next to each, say whether it belongs in a blog post, product page or FAQ.",
+  "summary": "فهرست سؤال‌های دم‌بلند و جای مناسب پاسخ هر کدام در سایت.",
+  "tools": [
+   "chatgpt",
+   "perplexity",
+   "gemini"
+  ],
+  "tags": [
+   "سئو",
+   "کلمات دم‌بلند",
+   "نیت کاربر",
+   "FAQ"
+  ]
+ },
+ {
+  "slug": "seo-title-meta-variants",
+  "category": "seo",
+  "sub": "meta",
+  "title": "عنوان و متای جذاب",
+  "fa": "برای صفحه‌ای با کلمه کلیدی اصلی «[کلمه کلیدی]» پنج عنوان سئو (حداکثر ۶۰ نویسه) و پنج توضیح متا (حداکثر ۱۵۵ نویسه) بنویس. کلمه کلیدی اول بیاید، عدد یا مزیت روشن داشته باشد و کلیک‌خور اما صادق باشد.",
+  "en": "For a page targeting \"[keyword]\", write five SEO titles (max 60 chars) and five meta descriptions (max 155 chars). Put the keyword first, include a number or clear benefit, and be clickable but honest.",
+  "summary": "گزینه‌های آماده عنوان و توضیح متا برای افزایش نرخ کلیک.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "gemini"
+  ],
+  "tags": [
+   "سئو",
+   "عنوان سئو",
+   "متا دیسکریپشن",
+   "CTR"
+  ]
+ },
+ {
+  "slug": "seo-article-outline",
+  "category": "seo",
+  "sub": "outline",
+  "title": "ساختار مقاله سئوشده",
+  "fa": "برای مقاله‌ای با کلمه کلیدی «[کلمه کلیدی]» یک ساختار کامل با H1، H2 و H3 بساز. برای هر بخش در یک خط بنویس چه چیزی گفته شود و کلمات مرتبط کجا بیایند. طول پیشنهادی مقاله را هم بگو.",
+  "en": "Build a full outline with H1, H2 and H3 for an article targeting \"[keyword]\". For each section, write one line on what to cover and where related terms fit. Also suggest the ideal word count.",
+  "summary": "اسکلت مقاله آماده نوشتن با جایگاه کلمات مرتبط.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "gemini",
+   "deepseek"
+  ],
+  "tags": [
+   "سئو",
+   "ساختار مقاله",
+   "تیتربندی",
+   "تولید محتوا"
+  ]
+ },
+ {
+  "slug": "seo-faq-schema",
+  "category": "seo",
+  "sub": "technical",
+  "title": "بخش پرسش‌های متداول",
+  "fa": "برای صفحه [موضوع صفحه] هشت پرسش متداول واقعی با پاسخ‌های کوتاه (حداکثر ۴۰ کلمه) بنویس. سپس همین‌ها را به‌صورت کد JSON-LD از نوع FAQPage تحویل بده.",
+  "en": "Write eight real FAQs with short answers (max 40 words) for a page about [page topic]. Then deliver them as FAQPage JSON-LD code.",
+  "summary": "پرسش و پاسخ آماده همراه اسکیمای FAQ برای نمایش بهتر در نتایج گوگل.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "gemini"
+  ],
+  "tags": [
+   "سئو",
+   "FAQ",
+   "اسکیما",
+   "داده ساختاریافته"
+  ]
+ },
+ {
+  "slug": "seo-product-description",
+  "category": "seo",
+  "sub": "product",
+  "title": "توضیحات محصول فروشگاهی",
+  "fa": "برای محصول [نام محصول] با ویژگی‌های [ویژگی‌ها] توضیحاتی ۲۰۰ کلمه‌ای برای فروشگاه اینترنتی بنویس: یک پاراگراف مزیت‌محور، فهرست بولت مشخصات و یک جمله دعوت به خرید. لحن صمیمی و بدون اغراق.",
+  "en": "Write a 200-word e-commerce description for [product name] with features [features]: one benefit-led paragraph, a bullet list of specs and a closing call to action. Friendly tone, no hype.",
+  "summary": "متن صفحه محصول که هم برای گوگل و هم برای خریدار مناسب است.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "deepseek"
+  ],
+  "tags": [
+   "سئو",
+   "توضیحات محصول",
+   "فروشگاه اینترنتی",
+   "کپی‌رایتینگ"
+  ]
+ },
+ {
+  "slug": "seo-landing-page-copy",
+  "category": "seo",
+  "sub": "landing",
+  "title": "متن صفحه فرود",
+  "fa": "برای صفحه فرود [محصول یا خدمت] با مخاطب [مخاطب] متن کامل بنویس: تیتر اصلی، زیرتیتر، سه مزیت، بخش اعتمادسازی، رفع دو اعتراض رایج و دکمه دعوت به اقدام. کلمه کلیدی [کلمه کلیدی] طبیعی بیاید.",
+  "en": "Write full landing page copy for [product or service] aimed at [audience]: headline, subheadline, three benefits, a trust section, answers to two common objections and a CTA button. Use [keyword] naturally.",
+  "summary": "متن بخش‌به‌بخش صفحه فرود آماده طراحی.",
+  "tools": [
+   "claude",
+   "chatgpt",
+   "gemini"
+  ],
+  "tags": [
+   "صفحه فرود",
+   "کپی‌رایتینگ",
+   "نرخ تبدیل",
+   "سئو"
+  ]
+ },
+ {
+  "slug": "seo-bullets-to-blog-post",
+  "category": "seo",
+  "sub": "outline",
+  "title": "تبدیل نکته‌ها به مقاله",
+  "fa": "این نکته‌ها را به یک مقاله وبلاگی ۸۰۰ کلمه‌ای روان تبدیل کن: [نکته‌ها]. مقدمه قلاب‌دار، تیترهای H2، یک مثال ایرانی و جمع‌بندی داشته باشد. کلمه کلیدی «[کلمه کلیدی]» را ۳ تا ۵ بار طبیعی بیاور.",
+  "en": "Turn these bullet points into a fluent 800-word blog post: [bullets]. Include a hooky intro, H2 headings, one local example and a conclusion. Use \"[keyword]\" naturally 3 to 5 times.",
+  "summary": "مقاله کامل وبلاگ از چند نکته خام.",
+  "tools": [
+   "claude",
+   "chatgpt",
+   "deepseek"
+  ],
+  "tags": [
+   "وبلاگ",
+   "تولید محتوا",
+   "سئو",
+   "نویسندگی"
+  ]
+ },
+ {
+  "slug": "seo-image-alt-text",
+  "category": "seo",
+  "sub": "technical",
+  "title": "متن جایگزین تصاویر",
+  "fa": "برای این تصاویر صفحه [موضوع صفحه] متن alt فارسی بنویس: [توضیح کوتاه هر تصویر]. هر alt حداکثر ۱۲۵ نویسه، توصیفی و دسترس‌پذیر باشد و فقط جایی که طبیعی است کلمه کلیدی بیاید. نام فایل انگلیسی هم پیشنهاد بده.",
+  "en": "Write alt text for these images on a page about [page topic]: [short description of each image]. Max 125 chars each, descriptive and accessible, keyword only where natural. Also suggest an English file name.",
+  "summary": "alt و نام فایل مناسب برای سئوی تصاویر و دسترس‌پذیری.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "gemini"
+  ],
+  "tags": [
+   "سئو تصویر",
+   "متن جایگزین",
+   "دسترس‌پذیری",
+   "بهینه‌سازی"
+  ]
+ },
+ {
+  "slug": "seo-internal-linking-plan",
+  "category": "seo",
+  "sub": "technical",
+  "title": "نقشه لینک‌سازی داخلی",
+  "fa": "این فهرست صفحات سایتم است: [عنوان‌ها و آدرس‌ها]. یک نقشه لینک داخلی بساز: صفحات ستون و خوشه‌ها را مشخص کن و برای هر صفحه دو تا سه لینک پیشنهادی با انکرتکست فارسی مناسب بنویس.",
+  "en": "Here are my site's pages: [titles and URLs]. Build an internal linking plan: identify pillar and cluster pages and suggest two or three links per page with suitable anchor text.",
+  "summary": "جدول لینک‌های داخلی و انکرتکست برای تقویت صفحات مهم.",
+  "tools": [
+   "claude",
+   "chatgpt",
+   "gemini"
+  ],
+  "tags": [
+   "لینک داخلی",
+   "سئو داخلی",
+   "انکرتکست",
+   "ساختار سایت"
+  ]
+ },
+ {
+  "slug": "seo-competitor-content-gap",
+  "category": "seo",
+  "sub": "keywords",
+  "title": "شکاف محتوایی با رقیب",
+  "fa": "سایت من درباره [حوزه] این مقاله‌ها را دارد: [فهرست]. رقیبم [نام رقیب] روی این موضوعات می‌نویسد: [فهرست]. موضوعاتی را که جا انداخته‌ام بر اساس اولویت و سختی رتبه گرفتن جدول کن.",
+  "en": "My site about [niche] has these articles: [list]. My competitor [competitor] covers: [list]. Table the topics I'm missing, ranked by priority and ranking difficulty.",
+  "summary": "فهرست اولویت‌دار موضوعاتی که رقیب دارد و شما ندارید.",
+  "tools": [
+   "claude",
+   "chatgpt",
+   "perplexity"
+  ],
+  "tags": [
+   "تحلیل رقبا",
+   "شکاف محتوایی",
+   "سئو",
+   "استراتژی محتوا"
+  ]
+ },
+ {
+  "slug": "seo-content-calendar-month",
+  "category": "seo",
+  "sub": "keywords",
+  "title": "تقویم محتوای یک‌ماهه",
+  "fa": "برای سایت [حوزه] یک تقویم محتوای ۳۰ روزه با ۱۲ مقاله بساز. مناسبت‌های ایرانی این ماه ([ماه]) را در نظر بگیر و برای هر مقاله کلمه کلیدی، نوع محتوا و تاریخ انتشار بنویس.",
+  "en": "Create a 30-day content calendar with 12 articles for a [niche] site. Account for Iranian occasions in [month] and list keyword, content type and publish date for each.",
+  "summary": "برنامه انتشار ماهانه هماهنگ با مناسبت‌های ایرانی.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "gemini"
+  ],
+  "tags": [
+   "تقویم محتوا",
+   "برنامه‌ریزی",
+   "مناسبت‌ها",
+   "سئو"
+  ]
+ },
+ {
+  "slug": "seo-rewrite-old-article",
+  "category": "seo",
+  "sub": "outline",
+  "title": "به‌روزرسانی مقاله قدیمی",
+  "fa": "این مقاله قدیمی من است: [متن]. بگو چه بخش‌هایی کهنه، تکراری یا ضعیف است، چه H2های تازه‌ای لازم دارد و یک مقدمه جدید قوی‌تر با کلمه کلیدی «[کلمه کلیدی]» بنویس.",
+  "en": "Here is my old article: [text]. Point out outdated, repetitive or weak parts, suggest new H2 sections, and write a stronger new intro using \"[keyword]\".",
+  "summary": "چک‌لیست بازنویسی و مقدمه تازه برای احیای رتبه مقاله.",
+  "tools": [
+   "claude",
+   "chatgpt"
+  ],
+  "tags": [
+   "به‌روزرسانی محتوا",
+   "بازنویسی",
+   "سئو",
+   "بهبود رتبه"
+  ]
+ },
+ {
+  "slug": "seo-local-business-page",
+  "category": "seo",
+  "sub": "local",
+  "title": "سئوی محلی کسب‌وکار",
+  "fa": "برای [نوع کسب‌وکار] در [شهر] متن صفحه «درباره ما و خدمات» بنویس که برای جست‌وجوهایی مثل «[خدمت] در [شهر]» بهینه باشد؛ نام محله‌ها، ساعت کاری و راه تماس را جا بده و یک متن کوتاه برای پروفایل گوگل مپ هم بنویس.",
+  "en": "Write an About & Services page for a [business type] in [city], optimized for searches like \"[service] in [city]\"; include neighborhoods, hours and contact info, plus a short Google Maps profile description.",
+  "summary": "متن صفحه و پروفایل نقشه برای دیده شدن در جست‌وجوی محلی.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "gemini"
+  ],
+  "tags": [
+   "سئو محلی",
+   "گوگل مپ",
+   "کسب‌وکار محلی",
+   "شهر"
+  ]
+ },
+ {
+  "slug": "seo-snippet-answer",
+  "category": "seo",
+  "sub": "meta",
+  "title": "پاسخ مناسب فیچر اسنیپت",
+  "fa": "برای سؤال «[سؤال]» یک پاراگراف ۴۰ تا ۵۰ کلمه‌ای پاسخ مستقیم بنویس که شانس گرفتن فیچر اسنیپت گوگل را داشته باشد. بعد یک نسخه فهرستی مرحله‌ای و یک جدول مقایسه کوتاه هم بده.",
+  "en": "Write a direct 40–50 word answer paragraph to \"[question]\" designed to win a Google featured snippet. Then give a step-by-step list version and a short comparison table.",
+  "summary": "سه قالب پاسخ برای تصاحب جایگاه صفر گوگل.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "gemini"
+  ],
+  "tags": [
+   "فیچر اسنیپت",
+   "جایگاه صفر",
+   "سئو",
+   "پاسخ کوتاه"
+  ]
+ },
+ {
+  "slug": "seo-category-page-text",
+  "category": "seo",
+  "sub": "product",
+  "title": "متن صفحه دسته‌بندی",
+  "fa": "برای دسته [نام دسته] در فروشگاه [نام فروشگاه] یک متن ۱۵۰ کلمه‌ای بالای صفحه و یک متن ۳۰۰ کلمه‌ای راهنمای خرید پایین صفحه بنویس. کلمات کلیدی [کلمات] طبیعی بیایند و متن تکراری نباشد.",
+  "en": "For the [category] category in the [store name] shop, write a 150-word intro for the top of the page and a 300-word buying guide for the bottom. Use [keywords] naturally, no fluff.",
+  "summary": "متن بالا و پایین صفحه دسته برای سئوی فروشگاه.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "deepseek"
+  ],
+  "tags": [
+   "صفحه دسته‌بندی",
+   "فروشگاه اینترنتی",
+   "راهنمای خرید",
+   "سئو"
+  ]
+ },
+ {
+  "slug": "seo-youtube-aparat-description",
+  "category": "seo",
+  "sub": "meta",
+  "title": "عنوان و توضیح ویدیو",
+  "fa": "برای ویدیویی درباره [موضوع ویدیو] سه عنوان جذاب، یک توضیح ۱۵۰ کلمه‌ای با فصل‌بندی زمانی [زمان‌ها] و ۱۵ هشتگ فارسی و انگلیسی برای یوتیوب و آپارات بنویس.",
+  "en": "For a video about [video topic], write three catchy titles, a 150-word description with timestamps [timestamps], and 15 Persian and English hashtags for YouTube and Aparat.",
+  "summary": "بسته کامل متادیتای ویدیو برای دیده شدن در یوتیوب و آپارات.",
+  "tools": [
+   "chatgpt",
+   "gemini"
+  ],
+  "tags": [
+   "یوتیوب",
+   "آپارات",
+   "سئو ویدیو",
+   "هشتگ"
+  ]
+ },
+ {
+  "slug": "seo-instagram-caption-keywords",
+  "category": "seo",
+  "sub": "meta",
+  "title": "کپشن اینستاگرام قابل جست‌وجو",
+  "fa": "برای پست اینستاگرامی [موضوع پست] یک کپشن ۸۰ کلمه‌ای با جمله اول قلاب‌دار، کلمات کلیدی قابل جست‌وجو، یک سؤال برای کامنت و ۱۰ هشتگ فارسی مرتبط بنویس. لحن [لحن].",
+  "en": "Write an 80-word Instagram caption for a post about [post topic] with a hooky first line, searchable keywords, a question to drive comments and 10 relevant Persian hashtags. Tone: [tone].",
+  "summary": "کپشن بهینه برای جست‌وجوی اینستاگرام و تعامل بیشتر.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "gemini"
+  ],
+  "tags": [
+   "اینستاگرام",
+   "کپشن",
+   "هشتگ",
+   "شبکه اجتماعی"
+  ]
+ },
+ {
+  "slug": "seo-eeat-checklist",
+  "category": "seo",
+  "sub": "outline",
+  "title": "بررسی اعتبار محتوا",
+  "fa": "این مقاله را از نظر تجربه، تخصص، اعتبار و اعتماد (E-E-A-T) بررسی کن: [متن]. به هر معیار از ۱۰ نمره بده و پنج تغییر مشخص پیشنهاد کن، مثل افزودن منبع، تجربه شخصی یا معرفی نویسنده.",
+  "en": "Review this article for Experience, Expertise, Authoritativeness and Trust (E-E-A-T): [text]. Score each from 1–10 and suggest five concrete fixes, like adding sources, personal experience or an author bio.",
+  "summary": "نمره‌دهی E-E-A-T و راهکارهای مشخص برای اعتمادپذیرتر شدن مقاله.",
+  "tools": [
+   "claude",
+   "chatgpt",
+   "gemini"
+  ],
+  "tags": [
+   "E-E-A-T",
+   "کیفیت محتوا",
+   "سئو",
+   "اعتبار"
+  ]
+ },
+ {
+  "slug": "seo-search-intent-check",
+  "category": "seo",
+  "sub": "keywords",
+  "title": "تشخیص نیت جست‌وجو",
+  "fa": "نیت جست‌وجوی این کلمات را مشخص کن: [کلمات]. برای هر کدام بگو اطلاعاتی، ناوبری، تجاری یا تراکنشی است، چه قالب صفحه‌ای (مقاله، لیست، صفحه محصول، مقایسه) بهتر جواب می‌دهد و چرا.",
+  "en": "Identify the search intent of these keywords: [keywords]. For each, say whether it is informational, navigational, commercial or transactional, which page format works best (article, list, product, comparison) and why.",
+  "summary": "تطبیق هر کلمه کلیدی با نوع صفحه درست.",
+  "tools": [
+   "chatgpt",
+   "gemini",
+   "perplexity"
+  ],
+  "tags": [
+   "نیت جست‌وجو",
+   "کلمه کلیدی",
+   "سئو",
+   "استراتژی"
+  ]
+ },
+ {
+  "slug": "seo-url-slug-ideas",
+  "category": "seo",
+  "sub": "technical",
+  "title": "نامک و ساختار آدرس",
+  "fa": "برای این عنوان‌های مقاله فارسی نامک (slug) انگلیسی کوتاه و خوانا بساز: [عنوان‌ها]. حداکثر پنج کلمه، بدون کلمات اضافه، با کلمه کلیدی. یک ساختار پوشه‌بندی URL هم برای سایت پیشنهاد بده.",
+  "en": "Create short, readable English slugs for these Persian article titles: [titles]. Max five words, no stop words, keyword included. Also suggest a URL folder structure for the site.",
+  "summary": "نامک‌های تمیز و ساختار آدرس منطقی برای سایت.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "deepseek"
+  ],
+  "tags": [
+   "نامک",
+   "URL",
+   "سئو فنی",
+   "ساختار سایت"
+  ]
+ },
+ {
+  "slug": "seo-guest-post-pitch",
+  "category": "seo",
+  "sub": "technical",
+  "title": "درخواست رپورتاژ و بک‌لینک",
+  "fa": "یک پیام کوتاه و مؤدبانه به مدیر سایت [نام سایت] بنویس و سه ایده مقاله مهمان مرتبط با حوزه‌اش پیشنهاد بده که بتوانم در آن به [صفحه من] لینک بدهم. بدون چاپلوسی و حداکثر ۱۲۰ کلمه.",
+  "en": "Write a short, polite message to the editor of [site name] pitching three guest post ideas relevant to their niche, where I can link to [my page]. No flattery, max 120 words.",
+  "summary": "پیام آماده برای گرفتن بک‌لینک از طریق مقاله مهمان.",
+  "tools": [
+   "chatgpt",
+   "claude"
+  ],
+  "tags": [
+   "لینک‌سازی",
+   "بک‌لینک",
+   "مقاله مهمان",
+   "سئو خارجی"
+  ]
+ },
+ {
+  "slug": "seo-comparison-article",
+  "category": "seo",
+  "sub": "outline",
+  "title": "مقاله مقایسه‌ای",
+  "fa": "یک مقاله مقایسه‌ای «[الف] یا [ب]؟» بنویس: جدول مقایسه در هفت معیار، مزایا و معایب هر کدام، قیمت تقریبی در ایران و یک بخش «کدام برای شما مناسب است؟» بر اساس نوع کاربر.",
+  "en": "Write a comparison article \"[A] vs [B]?\": a seven-criteria comparison table, pros and cons of each, approximate price, and a \"Which one is right for you?\" section by user type.",
+  "summary": "مقاله مقایسه‌ای با جدول و توصیه برای کلمات تجاری.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "perplexity"
+  ],
+  "tags": [
+   "مقاله مقایسه‌ای",
+   "جدول مقایسه",
+   "سئو تجاری",
+   "محتوا"
+  ]
+ },
+ {
+  "slug": "seo-topic-cluster",
+  "category": "seo",
+  "sub": "keywords",
+  "title": "خوشه موضوعی",
+  "fa": "برای موضوع اصلی [موضوع] یک خوشه موضوعی بساز: یک مقاله ستون جامع و ۱۰ مقاله زیرمجموعه. برای هر کدام عنوان، کلمه کلیدی هدف و نحوه لینک به مقاله ستون را بنویس.",
+  "en": "Build a topic cluster for [topic]: one comprehensive pillar article and 10 supporting articles. For each, give the title, target keyword and how it links to the pillar.",
+  "summary": "نقشه خوشه موضوعی برای تبدیل شدن به مرجع یک حوزه.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "gemini"
+  ],
+  "tags": [
+   "خوشه موضوعی",
+   "مقاله ستون",
+   "استراتژی محتوا",
+   "سئو"
+  ]
+ },
+ {
+  "slug": "seo-review-response-keywords",
+  "category": "seo",
+  "sub": "local",
+  "title": "پاسخ به نظرات گوگل مپ",
+  "fa": "به این نظر مشتری در گوگل مپ برای [نام کسب‌وکار] پاسخ بده: [متن نظر]. پاسخ کوتاه، محترمانه و شخصی باشد، نام خدمت و شهر را طبیعی بیاورد و اگر نظر منفی است راه حل پیشنهاد کند.",
+  "en": "Reply to this Google Maps review for [business name]: [review text]. Keep it short, respectful and personal, mention the service and city naturally, and offer a fix if the review is negative.",
+  "summary": "پاسخ حرفه‌ای به نظرات که به سئوی محلی هم کمک می‌کند.",
+  "tools": [
+   "chatgpt",
+   "claude"
+  ],
+  "tags": [
+   "نظرات مشتری",
+   "گوگل مپ",
+   "سئو محلی",
+   "پاسخ‌گویی"
+  ]
+ },
+ {
+  "slug": "seo-thin-content-audit",
+  "category": "seo",
+  "sub": "technical",
+  "title": "عیب‌یابی محتوای ضعیف",
+  "fa": "این صفحه رتبه نمی‌گیرد: [آدرس یا متن]، کلمه هدف «[کلمه کلیدی]». ده دلیل احتمالی محتوایی و فنی را به ترتیب احتمال بنویس و برای هر کدام یک راه بررسی سریع و یک راه‌حل بده.",
+  "en": "This page won't rank: [URL or text], target keyword \"[keyword]\". List ten likely content and technical reasons, ordered by likelihood, each with a quick way to check and a fix.",
+  "summary": "چک‌لیست عیب‌یابی صفحه‌ای که در گوگل بالا نمی‌آید.",
+  "tools": [
+   "claude",
+   "chatgpt",
+   "gemini"
+  ],
+  "tags": [
+   "عیب‌یابی سئو",
+   "رتبه گوگل",
+   "سئو فنی",
+   "بهینه‌سازی"
+  ]
+ },
+ {
+  "slug": "seo-kw-digikala-torob-mining",
+  "category": "seo",
+  "sub": "keywords",
+  "title": "کلیدواژه از جست‌وجوی دیجی‌کالا و ترب",
+  "fa": "تو متخصص سئوی فروشگاهی هستی. این عبارت‌ها را از پیشنهادهای جست‌وجوی دیجی‌کالا و ترب برای [محصول] جمع کرده‌ام: [عبارت‌ها]. آن‌ها را خوشه‌بندی کن، برای هر خوشه یک کلیدواژه اصلی و نوع صفحه مناسب (محصول، دسته، مقاله) پیشنهاد بده و در جدول بنویس.",
+  "en": "You are an e-commerce SEO specialist. I collected these phrases from Digikala and Torob search suggestions for [product]: [phrases]. Cluster them, pick one primary keyword per cluster, suggest the right page type (product, category, article), and present it as a table.",
+  "summary": "عبارت‌های واقعی جست‌وجوی خریداران ایرانی را به خوشه و نقشه صفحه تبدیل می‌کند؛ برای شروع سئوی فروشگاه.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "gemini"
+  ],
+  "tags": [
+   "کلمه کلیدی",
+   "دیجی‌کالا",
+   "ترب",
+   "خوشه‌بندی",
+   "فروشگاه اینترنتی"
+  ]
+ },
+ {
+  "slug": "seo-kw-spelling-variants",
+  "category": "seo",
+  "sub": "keywords",
+  "title": "گونه‌های نگارشی کلیدواژه",
+  "fa": "برای کلیدواژه «[کلیدواژه]» همه گونه‌هایی را که کاربران ایرانی ممکن است تایپ کنند فهرست کن: فاصله و نیم‌فاصله، ی و ك عربی، فینگلیش، غلط‌های رایج تایپی و معادل انگلیسی. بگو کدام را در عنوان، کدام را در متن و کدام را نباید استفاده کرد.",
+  "en": "For the keyword \"[keyword]\", list every variant Iranian users might type: spaces vs. half-spaces, Arabic ي and ك, Finglish, common typos and the English equivalent. Say which belong in the title, which in body text, and which to avoid.",
+  "summary": "گونه‌های املایی و فینگلیش یک کلیدواژه را با محل استفاده هر کدام می‌دهد؛ برای پوشش جست‌وجوهای پراکنده فارسی.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "deepseek"
+  ],
+  "tags": [
+   "کلمه کلیدی",
+   "فینگلیش",
+   "نیم‌فاصله",
+   "املای فارسی"
+  ]
+ },
+ {
+  "slug": "seo-kw-seasonal-calendar",
+  "category": "seo",
+  "sub": "keywords",
+  "title": "کلیدواژه‌های فصلی و مناسبتی",
+  "fa": "برای حوزه [حوزه کسب‌وکار] کلیدواژه‌هایی را که در ایران فصلی یا مناسبتی اوج می‌گیرند (نوروز، بازگشایی مدارس، یلدا، بلک‌فرایدی، ماه رمضان) فهرست کن. برای هر کدام ماه اوج، چند هفته قبل‌تر باید محتوا منتشر شود و ایده صفحه را جدول کن.",
+  "en": "For the [business niche] niche, list keywords that peak seasonally or around Iranian occasions (Nowruz, back-to-school, Yalda, Black Friday, Ramadan). Table the peak month, how many weeks ahead content should go live, and a page idea for each.",
+  "summary": "تقویم کلیدواژه‌های فصلی با زمان انتشار پیشنهادی؛ برای اینکه محتوا قبل از اوج جست‌وجو رتبه بگیرد.",
+  "tools": [
+   "chatgpt",
+   "gemini",
+   "perplexity"
+  ],
+  "tags": [
+   "کلمه کلیدی",
+   "مناسبت‌ها",
+   "تقویم محتوا",
+   "ترند"
+  ]
+ },
+ {
+  "slug": "seo-kw-priority-score",
+  "category": "seo",
+  "sub": "keywords",
+  "title": "اولویت‌بندی فهرست کلیدواژه",
+  "fa": "این کلیدواژه‌ها را با حجم تقریبی جست‌وجو دارم: [فهرست و حجم]. سایت من [نوع و قدرت سایت] است. به هر کدام از ۱ تا ۵ امتیاز سختی، ارزش تجاری و ارتباط با محصول بده، امتیاز نهایی حساب کن و ۱۰ کلیدواژه اول برای سه ماه آینده را با دلیل معرفی کن.",
+  "en": "Here are my keywords with approximate search volume: [list and volume]. My site is [site type and strength]. Score each 1–5 for difficulty, commercial value and product relevance, compute a final score, and name the top 10 for the next three months with reasons.",
+  "summary": "فهرست خام کلیدواژه را به برنامه سه‌ماهه اولویت‌دار تبدیل می‌کند؛ وقتی منابع تولید محتوا محدود است.",
+  "tools": [
+   "chatgpt",
+   "claude"
+  ],
+  "tags": [
+   "کلمه کلیدی",
+   "اولویت‌بندی",
+   "استراتژی سئو",
+   "برنامه‌ریزی"
+  ]
+ },
+ {
+  "slug": "seo-kw-cannibalization-check",
+  "category": "seo",
+  "sub": "keywords",
+  "title": "بررسی هم‌نوع‌خواری کلیدواژه",
+  "fa": "عنوان و کلیدواژه هدف صفحه‌های سایتم این است: [فهرست]. صفحه‌هایی را که روی یک نیت جست‌وجو با هم رقابت می‌کنند پیدا کن و برای هر گروه پیشنهاد بده: ادغام، ریدایرکت ۳۰۱، تغییر کلیدواژه یا تفکیک نیت. خروجی جدولی باشد.",
+  "en": "Here are my site's page titles and target keywords: [list]. Find pages competing for the same search intent and, for each group, recommend merge, 301 redirect, keyword change or intent split. Output a table.",
+  "summary": "صفحه‌هایی را که رتبه همدیگر را می‌خورند پیدا می‌کند و راه‌حل هر کدام را می‌دهد؛ برای سایت‌های پرمحتوا.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "gemini"
+  ],
+  "tags": [
+   "کنیبالیزیشن",
+   "کلمه کلیدی",
+   "ریدایرکت",
+   "ممیزی محتوا"
+  ]
+ },
+ {
+  "slug": "seo-meta-bulk-product-titles",
+  "category": "seo",
+  "sub": "meta",
+  "title": "عنوان سئو برای محصولات انبوه",
+  "fa": "برای این محصولات عنوان سئو (حداکثر ۶۰ نویسه) و توضیح متا (حداکثر ۱۵۵ نویسه) بنویس: [نام، برند، ویژگی اصلی هر محصول]. الگو: نوع محصول + برند + مدل + ویژگی متمایز. در متا قیمت مناسب، ارسال یا گارانتی را بیاور و خروجی را CSV بده.",
+  "en": "Write an SEO title (max 60 chars) and meta description (max 155 chars) for these products: [name, brand, key feature of each]. Pattern: product type + brand + model + distinctive feature. Mention value, shipping or warranty in the meta and output CSV.",
+  "summary": "عنوان و متای یکدست برای ده‌ها محصول به‌صورت CSV؛ برای بارگذاری سریع در ووکامرس یا پنل فروشگاه.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "deepseek"
+  ],
+  "tags": [
+   "عنوان سئو",
+   "متا دیسکریپشن",
+   "محصول",
+   "CSV"
+  ]
+ },
+ {
+  "slug": "seo-meta-category-pages",
+  "category": "seo",
+  "sub": "meta",
+  "title": "متای صفحه‌های دسته‌بندی",
+  "fa": "برای دسته‌بندی‌های فروشگاه [نام فروشگاه]: [فهرست دسته‌ها]، عنوان سئو و توضیح متا بنویس که عبارت «خرید [دسته]» و «قیمت [دسته]» را طبیعی پوشش دهد، تعداد تنوع یا برند را بگوید و تکراری نباشد. هر دسته در یک ردیف جدول.",
+  "en": "For the categories of the [store name] store: [category list], write SEO titles and meta descriptions that naturally cover \"buy [category]\" and \"[category] price\", mention range or brands, and never repeat. One table row per category.",
+  "summary": "متای اختصاصی و غیرتکراری برای صفحه‌های دسته؛ برای رتبه گرفتن روی عبارت‌های خرید و قیمت.",
+  "tools": [
+   "chatgpt",
+   "gemini"
+  ],
+  "tags": [
+   "متا دیسکریپشن",
+   "صفحه دسته‌بندی",
+   "خرید و قیمت",
+   "فروشگاه اینترنتی"
+  ]
+ },
+ {
+  "slug": "seo-meta-open-graph-tags",
+  "category": "seo",
+  "sub": "meta",
+  "title": "تگ‌های اشتراک‌گذاری شبکه‌های اجتماعی",
+  "fa": "برای صفحه [آدرس یا موضوع صفحه] تگ‌های og:title، og:description، og:image alt و twitter:card را بنویس، طوری که وقتی لینک در تلگرام، واتساپ یا ایتا فرستاده می‌شود کنجکاوی بسازد. کد HTML آماده و توضیح اندازه پیشنهادی تصویر را بده.",
+  "en": "For the page [URL or page topic], write og:title, og:description, og:image alt and twitter:card tags that spark curiosity when the link is shared on Telegram, WhatsApp or Eitaa. Give ready HTML and the recommended image size.",
+  "summary": "کد آماده Open Graph برای پیش‌نمایش جذاب لینک در پیام‌رسان‌ها؛ قبل از انتشار صفحه.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "copilot"
+  ],
+  "tags": [
+   "اوپن گراف",
+   "متا تگ",
+   "تلگرام",
+   "اشتراک‌گذاری"
+  ]
+ },
+ {
+  "slug": "seo-meta-low-ctr-rewrite",
+  "category": "seo",
+  "sub": "meta",
+  "title": "بازنویسی متا برای صفحه‌های کم‌کلیک",
+  "fa": "این صفحه‌ها در سرچ کنسول نمایش بالا ولی CTR پایین دارند: [آدرس، عنوان فعلی، کوئری اصلی، CTR]. برای هر کدام دلیل احتمالی کلیک‌نخوردن را بگو و دو عنوان و متای جایگزین بنویس که با نیت کوئری جور باشد.",
+  "en": "These pages have high impressions but low CTR in Search Console: [URL, current title, main query, CTR]. For each, give the likely reason for low clicks and write two alternative titles and metas that match the query intent.",
+  "summary": "عنوان و متای جایگزین برای صفحه‌های پربازدید در نتایج ولی کم‌کلیک؛ سریع‌ترین راه افزایش ترافیک.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "gemini"
+  ],
+  "tags": [
+   "CTR",
+   "سرچ کنسول",
+   "عنوان سئو",
+   "بهینه‌سازی"
+  ]
+ },
+ {
+  "slug": "seo-meta-title-length-fix",
+  "category": "seo",
+  "sub": "meta",
+  "title": "کوتاه‌کردن عنوان‌های بریده‌شده",
+  "fa": "این عنوان‌ها در نتایج گوگل بریده نمایش داده می‌شوند: [فهرست عنوان‌ها]. هر کدام را به حداکثر ۵۵ نویسه برسان، بدون حذف کلیدواژه اصلی و مزیت کلیدی. نام برند را فقط اگر جا ماند آخر بیاور و طول هر عنوان جدید را کنارش بنویس.",
+  "en": "These titles get truncated in Google results: [title list]. Shorten each to max 55 characters without losing the main keyword or key benefit. Add the brand name at the end only if space remains, and show each new title's length.",
+  "summary": "عنوان‌های طولانی را بدون از دست دادن کلیدواژه کوتاه می‌کند؛ برای رفع هشدار طول عنوان در افزونه‌های سئو.",
+  "tools": [
+   "chatgpt",
+   "deepseek"
+  ],
+  "tags": [
+   "عنوان سئو",
+   "طول عنوان",
+   "یوست",
+   "رنک‌مث"
+  ]
+ },
+ {
+  "slug": "seo-meta-blog-headline-hooks",
+  "category": "seo",
+  "sub": "meta",
+  "title": "تیتر کلیک‌خور برای مقاله",
+  "fa": "برای مقاله‌ای درباره [موضوع] با کلیدواژه «[کلیدواژه]» ده تیتر بنویس با الگوهای مختلف: عددی، سؤالی، راهنمای کامل، اشتباهات رایج، مقایسه و سال جاری. کنار هر تیتر بگو برای کدام نیت جست‌وجو مناسب‌تر است و از اغراق و کلیک‌بیت پرهیز کن.",
+  "en": "For an article on [topic] targeting \"[keyword]\", write ten headlines using different patterns: numbered, question, complete guide, common mistakes, comparison and current year. Note which search intent each suits best, and avoid hype or clickbait.",
+  "summary": "ده تیتر متنوع و صادق برای یک مقاله با تطبیق نیت جست‌وجو؛ هنگام انتخاب عنوان نهایی.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "gemini"
+  ],
+  "tags": [
+   "تیتر",
+   "عنوان مقاله",
+   "کپی‌رایتینگ",
+   "سئو"
+  ]
+ },
+ {
+  "slug": "seo-meta-h1-title-pair",
+  "category": "seo",
+  "sub": "meta",
+  "title": "هماهنگی H1 و عنوان سئو",
+  "fa": "برای صفحه‌ای با موضوع [موضوع] و کلیدواژه «[کلیدواژه]» سه جفت پیشنهاد بده: عنوان سئو برای نتایج گوگل و H1 برای بالای صفحه. عنوان سئو کوتاه و کلیک‌خور باشد و H1 کامل‌تر و انسانی‌تر، ولی هر دو یک نیت را نشان دهند.",
+  "en": "For a page about [topic] targeting \"[keyword]\", suggest three pairs: an SEO title for Google results and an H1 for the page top. The SEO title should be short and clickable, the H1 fuller and more human, but both must signal the same intent.",
+  "summary": "جفت عنوان سئو و H1 هماهنگ اما متفاوت؛ برای پرهیز از تکرار خشک و حفظ تمرکز کلیدواژه.",
+  "tools": [
+   "chatgpt",
+   "claude"
+  ],
+  "tags": [
+   "H1",
+   "عنوان سئو",
+   "ساختار صفحه",
+   "سئو داخلی"
+  ]
+ },
+ {
+  "slug": "seo-outline-writer-brief",
+  "category": "seo",
+  "sub": "outline",
+  "title": "بریف محتوا برای نویسنده",
+  "fa": "برای سفارش مقاله با کلیدواژه «[کلیدواژه]» به یک نویسنده فریلنسر، بریف کامل بنویس: مخاطب، نیت جست‌وجو، طول پیشنهادی، ساختار H2 و H3، کلیدواژه‌های فرعی، سؤال‌هایی که باید جواب داده شود، لحن، لینک‌های داخلی [صفحه‌ها] و معیار پذیرش متن.",
+  "en": "Write a full content brief for a freelance writer for an article targeting \"[keyword]\": audience, search intent, suggested length, H2/H3 structure, secondary keywords, questions to answer, tone, internal links to [pages] and acceptance criteria.",
+  "summary": "بریف استاندارد و قابل تحویل به نویسنده؛ برای یکدست شدن کیفیت مقاله‌های سفارشی.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "gemini"
+  ],
+  "tags": [
+   "بریف محتوا",
+   "تولید محتوا",
+   "فریلنسر",
+   "ساختار مقاله"
+  ]
+ },
+ {
+  "slug": "seo-outline-howto-guide",
+  "category": "seo",
+  "sub": "outline",
+  "title": "مقاله آموزشی گام‌به‌گام",
+  "fa": "یک مقاله آموزشی گام‌به‌گام با عنوان «چطور [کار مورد نظر]» بنویس برای مخاطب مبتدی ایرانی: مقدمه کوتاه، ابزار و پیش‌نیازها، مراحل شماره‌دار با نکته هشدار در هر مرحله، اشتباهات رایج و جمع‌بندی. حدود ۱۰۰۰ کلمه و با زیرعنوان‌های H2.",
+  "en": "Write a step-by-step how-to article titled \"How to [task]\" for Iranian beginners: short intro, tools and prerequisites, numbered steps with a warning tip in each, common mistakes and a wrap-up. About 1,000 words with H2 subheadings.",
+  "summary": "مقاله آموزشی کامل با ساختار مناسب How-to؛ برای کلیدواژه‌های «چطور» و «آموزش».",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "gemini"
+  ],
+  "tags": [
+   "مقاله آموزشی",
+   "How-to",
+   "تولید محتوا",
+   "سئو"
+  ]
+ },
+ {
+  "slug": "seo-outline-listicle",
+  "category": "seo",
+  "sub": "outline",
+  "title": "مقاله فهرستی «بهترین‌ها»",
+  "fa": "مقاله‌ای با عنوان «[عدد] [بهترین محصول یا روش] در [سال]» بنویس. برای هر مورد: معرفی کوتاه، مناسب چه کسی، مزیت و عیب، بازه قیمت تقریبی در بازار ایران. در پایان جدول خلاصه و راهنمای انتخاب بگذار و ادعای بی‌پشتوانه نکن.",
+  "en": "Write an article titled \"[number] [best products or methods] in [year]\". For each item: short intro, who it suits, pros and cons, approximate price range in Iran. End with a summary table and a buying guide, with no unsupported claims.",
+  "summary": "مقاله لیستی منظم با جدول مقایسه؛ برای کلیدواژه‌های تجاری «بهترین» و جذب خریدار.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "perplexity"
+  ],
+  "tags": [
+   "لیستیکل",
+   "مقاله بهترین‌ها",
+   "راهنمای خرید",
+   "محتوای تجاری"
+  ]
+ },
+ {
+  "slug": "seo-outline-intro-hooks",
+  "category": "seo",
+  "sub": "outline",
+  "title": "مقدمه گیرای مقاله",
+  "fa": "برای مقاله‌ای با عنوان «[عنوان]» سه مقدمه متفاوت (هر کدام حداکثر ۸۰ کلمه) بنویس: با آمار یا واقعیت، با یک موقعیت آشنا برای خواننده ایرانی، و با پاسخ مستقیم به سؤال اصلی. کلیدواژه «[کلیدواژه]» در جمله اول یا دوم بیاید.",
+  "en": "For an article titled \"[title]\", write three different intros (max 80 words each): one opening with a stat or fact, one with a situation familiar to Iranian readers, and one with a direct answer to the main question. Use \"[keyword]\" in the first or second sentence.",
+  "summary": "سه مقدمه با رویکردهای مختلف برای کاهش پرش کاربر؛ وقتی شروع مقاله خشک است.",
+  "tools": [
+   "chatgpt",
+   "claude"
+  ],
+  "tags": [
+   "مقدمه",
+   "نرخ پرش",
+   "نویسندگی",
+   "سئو محتوا"
+  ]
+ },
+ {
+  "slug": "seo-outline-humanize-ai-draft",
+  "category": "seo",
+  "sub": "outline",
+  "title": "انسانی‌کردن پیش‌نویس هوش مصنوعی",
+  "fa": "این پیش‌نویس با هوش مصنوعی نوشته شده و کلی و تکراری است: [متن]. آن را بازنویسی کن: جمله‌های کلیشه‌ای را حذف کن، مثال واقعی و عدد از بازار ایران اضافه کن، لحن را محاوره‌ای-رسمی کن و جاهایی را که نیاز به تجربه شخصی من دارد با [تجربه] علامت بزن.",
+  "en": "This draft was AI-written and feels generic and repetitive: [text]. Rewrite it: cut clichés, add real examples and figures from the Iranian market, use a semi-formal conversational tone, and mark spots that need my personal experience with [experience].",
+  "summary": "متن ماشینی را به محتوای طبیعی و قابل اعتماد نزدیک می‌کند؛ برای رعایت E-E-A-T و کیفیت.",
+  "tools": [
+   "claude",
+   "chatgpt"
+  ],
+  "tags": [
+   "ویرایش محتوا",
+   "محتوای هوش مصنوعی",
+   "E-E-A-T",
+   "بازنویسی"
+  ]
+ },
+ {
+  "slug": "seo-outline-expand-section",
+  "category": "seo",
+  "sub": "outline",
+  "title": "عمیق‌کردن یک بخش مقاله",
+  "fa": "این بخش از مقاله من درباره [موضوع] کم‌عمق است: [متن بخش]. آن را به حدود ۴۰۰ کلمه گسترش بده با یک مثال عملی، یک جدول یا فهرست مقایسه، یک نکته که رقبا معمولاً نمی‌گویند و یک سؤال متداول مرتبط. پرحرفی نکن.",
+  "en": "This section of my article about [topic] is thin: [section text]. Expand it to about 400 words with one practical example, a comparison table or list, one insight competitors usually miss, and a related FAQ. No filler.",
+  "summary": "یک بخش ضعیف را با مثال و داده پربار می‌کند؛ برای رفع محتوای کم‌عمق بدون نوشتن دوباره کل مقاله.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "gemini"
+  ],
+  "tags": [
+   "محتوای عمیق",
+   "گسترش مقاله",
+   "سئو محتوا",
+   "ویرایش"
+  ]
+ },
+ {
+  "slug": "seo-outline-pillar-guide",
+  "category": "seo",
+  "sub": "outline",
+  "title": "راهنمای جامع ستون محتوا",
+  "fa": "ساختار یک راهنمای جامع ۳۰۰۰ کلمه‌ای درباره [موضوع اصلی] بساز: فهرست مطالب، ۸ تا ۱۰ بخش H2 با خلاصه هر بخش، جای لینک به مقاله‌های فرعی [فهرست مقاله‌ها]، جای اینفوگرافیک یا ویدیو و یک بخش پرسش‌های متداول. فقط ساختار، نه متن کامل.",
+  "en": "Build the structure for a 3,000-word ultimate guide on [main topic]: table of contents, 8–10 H2 sections with a summary each, spots to link to cluster articles [article list], places for an infographic or video, and an FAQ section. Structure only, not full text.",
+  "summary": "اسکلت صفحه ستون (Pillar) با جای لینک‌های داخلی؛ برای ساختن اعتبار موضوعی سایت.",
+  "tools": [
+   "claude",
+   "chatgpt",
+   "gemini"
+  ],
+  "tags": [
+   "پیلار پیج",
+   "راهنمای جامع",
+   "ساختار مقاله",
+   "لینک داخلی"
+  ]
+ },
+ {
+  "slug": "seo-product-digikala-style-specs",
+  "category": "seo",
+  "sub": "product",
+  "title": "جدول مشخصات فنی محصول",
+  "fa": "از این اطلاعات خام محصول [نام محصول]: [متن یا مشخصات کاتالوگ] یک جدول مشخصات فنی مرتب به سبک فروشگاه‌های بزرگ ایرانی بساز (ابعاد، وزن، جنس، ظرفیت، گارانتی، کشور سازنده و...). واحدها را فارسی و یکدست کن و موارد نامعلوم را «نامشخص» بگذار، حدس نزن.",
+  "en": "From this raw product data for [product name]: [text or catalog specs], build a clean spec table in the style of major Iranian stores (dimensions, weight, material, capacity, warranty, country of origin, etc.). Standardize units in Persian and mark unknowns as \"not specified\" — don't guess.",
+  "summary": "مشخصات پراکنده را به جدول فنی استاندارد تبدیل می‌کند؛ برای صفحه محصول فروشگاه یا مارکت‌پلیس.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "deepseek"
+  ],
+  "tags": [
+   "مشخصات فنی",
+   "صفحه محصول",
+   "دیجی‌کالا",
+   "فروشگاه اینترنتی"
+  ]
+ },
+ {
+  "slug": "seo-product-torob-title-format",
+  "category": "seo",
+  "sub": "product",
+  "title": "نام محصول مناسب ترب و مقایسه‌گرها",
+  "fa": "نام این محصولات را طوری بازنویسی کن که در ترب و ایمالز درست با محصولات مشابه ادغام و پیدا شوند: [فهرست نام‌ها]. الگو: نوع کالا + برند + مدل + ویژگی کلیدی (رنگ، ظرفیت). کلمات تبلیغی مثل «اورجینال» و «ارزان» را حذف کن.",
+  "en": "Rewrite these product names so they match and surface correctly on Torob and Emalls price comparison: [name list]. Pattern: product type + brand + model + key attribute (color, capacity). Remove promo words like \"original\" and \"cheap\".",
+  "summary": "نام‌گذاری استاندارد محصول برای دیده‌شدن در مقایسه‌گرهای قیمت؛ هنگام اتصال فروشگاه به ترب.",
+  "tools": [
+   "chatgpt",
+   "deepseek"
+  ],
+  "tags": [
+   "ترب",
+   "نام محصول",
+   "مقایسه قیمت",
+   "فید محصول"
+  ]
+ },
+ {
+  "slug": "seo-product-instagram-shop-desc",
+  "category": "seo",
+  "sub": "product",
+  "title": "توضیح محصول برای پیج فروشگاهی",
+  "fa": "برای فروش [محصول] در پیج اینستاگرام، توضیح محصول بنویس: خط اول قلاب، سه مزیت با ایموجی کم، مشخصات کوتاه (سایز، رنگ، جنس)، قیمت [قیمت]، نحوه سفارش از دایرکت و ارسال به شهرستان. حداکثر ۱۲۰ کلمه و ۵ هشتگ فارسی مرتبط.",
+  "en": "Write a product description for selling [product] on an Instagram shop page: hook first line, three benefits with minimal emoji, short specs (size, color, material), price [price], how to order via DM and shipping to other cities. Max 120 words plus 5 relevant Persian hashtags.",
+  "summary": "کپشن فروش کامل برای محصول در اینستاگرام؛ برای پیج‌های فروشگاهی که سؤال تکراری در دایرکت زیاد دارند.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "gemini"
+  ],
+  "tags": [
+   "اینستاگرام",
+   "توضیح محصول",
+   "پیج فروشگاهی",
+   "کپشن فروش"
+  ]
+ },
+ {
+  "slug": "seo-product-variant-unique",
+  "category": "seo",
+  "sub": "product",
+  "title": "توضیح غیرتکراری برای تنوع‌های محصول",
+  "fa": "محصول [نام محصول] در این تنوع‌ها صفحه جداگانه دارد: [رنگ‌ها یا مدل‌ها]. برای هر تنوع یک پاراگراف ۸۰ کلمه‌ای متفاوت بنویس که روی کاربرد، سلیقه یا موقعیت استفاده همان تنوع تمرکز کند تا محتوای تکراری نداشته باشیم.",
+  "en": "[product name] has separate pages for these variants: [colors or models]. Write a different 80-word paragraph for each, focused on that variant's use case, style or setting, so the pages aren't duplicate content.",
+  "summary": "متن یکتا برای صفحه‌های رنگ و مدل یک محصول؛ برای جلوگیری از محتوای تکراری در فروشگاه.",
+  "tools": [
+   "chatgpt",
+   "claude"
+  ],
+  "tags": [
+   "محتوای تکراری",
+   "تنوع محصول",
+   "صفحه محصول",
+   "سئو فروشگاه"
+  ]
+ },
+ {
+  "slug": "seo-product-faq-block",
+  "category": "seo",
+  "sub": "product",
+  "title": "پرسش‌های متداول صفحه محصول",
+  "fa": "برای صفحه محصول [نام محصول] شش سؤال واقعی که خریدار ایرانی قبل از خرید می‌پرسد بنویس (اصالت کالا، گارانتی، زمان ارسال، مرجوعی، سازگاری، نگهداری) با پاسخ کوتاه و دقیق بر اساس این اطلاعات: [شرایط فروش]. چیزی خارج از اطلاعات نساز.",
+  "en": "For the [product name] product page, write six real pre-purchase questions Iranian shoppers ask (authenticity, warranty, delivery time, returns, compatibility, care) with short accurate answers based on this info: [sales terms]. Don't invent anything beyond it.",
+  "summary": "بلوک FAQ صفحه محصول که تردید خرید را کم می‌کند و برای اسکیما آماده است.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "gemini"
+  ],
+  "tags": [
+   "FAQ",
+   "صفحه محصول",
+   "اعتماد خریدار",
+   "نرخ تبدیل"
+  ]
+ },
+ {
+  "slug": "seo-product-buying-guide",
+  "category": "seo",
+  "sub": "product",
+  "title": "راهنمای خرید کوتاه داخل محصول",
+  "fa": "برای بالای صفحه محصولات [دسته محصول] یک راهنمای خرید ۲۵۰ کلمه‌ای بنویس: سه معیار مهم انتخاب، اینکه برای چه نوع مصرف‌کننده چه مدلی مناسب است، و دو اشتباه رایج خریداران. لحن مشاور فروشنده دلسوز باشد نه تبلیغ.",
+  "en": "Write a 250-word buying guide for the [product category] page: three key selection criteria, which model suits which type of user, and two common buyer mistakes. Tone of a caring sales advisor, not an ad.",
+  "summary": "راهنمای خرید فشرده برای صفحه محصول یا دسته؛ برای کمک به تصمیم و افزایش زمان ماندن.",
+  "tools": [
+   "chatgpt",
+   "claude"
+  ],
+  "tags": [
+   "راهنمای خرید",
+   "صفحه دسته",
+   "مشاوره فروش",
+   "محتوای تجاری"
+  ]
+ },
+ {
+  "slug": "seo-product-handmade-story",
+  "category": "seo",
+  "sub": "product",
+  "title": "توضیح محصول دست‌ساز با داستان",
+  "fa": "برای محصول دست‌ساز [محصول] ساخت [شهر یا هنرمند]، توضیحی ۱۵۰ کلمه‌ای بنویس که داستان ساخت، مواد اولیه، زمان تولید و یکتایی هر نمونه را بگوید و در پایان نکته نگهداری و ابعاد [ابعاد] را بیاورد. کلیدواژه «خرید [محصول] دست‌ساز» را طبیعی بگذار.",
+  "en": "For the handmade [product] made in [city or by artisan], write a 150-word description covering the making story, materials, production time and the uniqueness of each piece, ending with care tips and dimensions [dimensions]. Naturally include \"buy handmade [product]\".",
+  "summary": "توضیح احساسی و سئوشده برای صنایع‌دستی و محصولات خانگی؛ برای فروشگاه‌های کوچک و پیج‌ها.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "gemini"
+  ],
+  "tags": [
+   "صنایع دستی",
+   "داستان محصول",
+   "توضیح محصول",
+   "کسب‌وکار خانگی"
+  ]
+ },
+ {
+  "slug": "seo-product-tech-to-simple",
+  "category": "seo",
+  "sub": "product",
+  "title": "ساده‌کردن مشخصات فنی برای خریدار",
+  "fa": "مشخصات فنی [محصول] این است: [مشخصات]. هر مشخصه را به زبان ساده برای خریدار غیرمتخصص ترجمه کن: «یعنی در عمل چه فایده‌ای برای تو دارد؟». خروجی جدول دوستونه باشد و در پایان یک پاراگراف جمع‌بندی ۶۰ کلمه‌ای برای صفحه محصول بنویس.",
+  "en": "[product] specs: [specs]. Translate each spec into plain language for a non-expert buyer: \"what does this actually do for you?\". Output a two-column table, then a 60-word summary paragraph for the product page.",
+  "summary": "مشخصات فنی را به مزیت قابل فهم تبدیل می‌کند؛ برای کالای دیجیتال و لوازم خانگی.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "deepseek"
+  ],
+  "tags": [
+   "مشخصات فنی",
+   "مزیت محصول",
+   "زبان ساده",
+   "صفحه محصول"
+  ]
+ },
+ {
+  "slug": "seo-product-review-summary",
+  "category": "seo",
+  "sub": "product",
+  "title": "خلاصه نظرات خریداران",
+  "fa": "این نظرات خریداران [محصول] است: [نظرات]. آن‌ها را خلاصه کن: پنج نقطه قوت و سه ایراد پرتکرار با درصد تقریبی، و یک جمع‌بندی بی‌طرف ۵۰ کلمه‌ای برای بالای بخش نظرات. ایرادها را پنهان نکن و برای هر کدام پاسخ فروشگاه پیشنهاد بده.",
+  "en": "These are buyer reviews of [product]: [reviews]. Summarize them: five strengths and three recurring complaints with rough percentages, plus a neutral 50-word summary for above the reviews section. Don't hide complaints; suggest a store response for each.",
+  "summary": "جمع‌بندی صادقانه نظرات برای صفحه محصول و بهبود فروش؛ وقتی نظرات زیاد و پراکنده است.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "gemini"
+  ],
+  "tags": [
+   "نظرات کاربران",
+   "خلاصه‌سازی",
+   "صفحه محصول",
+   "اعتماد"
+  ]
+ },
+ {
+  "slug": "seo-product-bulk-from-csv",
+  "category": "seo",
+  "sub": "product",
+  "title": "توضیح انبوه محصول از فایل",
+  "fa": "این ستون‌ها از فایل محصولاتم است: [نام، برند، دسته، ویژگی‌ها]. برای هر ردیف یک توضیح کوتاه ۶۰ کلمه‌ای یکتا بنویس با کلیدواژه «خرید [نام محصول]»، بدون جمله‌های تکراری بین ردیف‌ها. خروجی را در قالب CSV با ستون slug و description بده.",
+  "en": "These columns come from my product file: [name, brand, category, features]. For each row write a unique 60-word short description including \"buy [product name]\", with no repeated sentences across rows. Output CSV with slug and description columns.",
+  "summary": "تولید انبوه توضیح کوتاه یکتا برای ده‌ها محصول؛ برای راه‌اندازی سریع فروشگاه.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "deepseek"
+  ],
+  "tags": [
+   "تولید انبوه",
+   "CSV",
+   "توضیح محصول",
+   "ووکامرس"
+  ]
+ },
+ {
+  "slug": "seo-landing-hero-variants",
+  "category": "seo",
+  "sub": "landing",
+  "title": "تیتر و زیرتیتر بالای صفحه",
+  "fa": "برای صفحه فرود [محصول یا خدمت] با مخاطب [مخاطب]، پنج ترکیب تیتر اصلی (حداکثر ۱۰ کلمه)، زیرتیتر (حداکثر ۲۵ کلمه) و متن دکمه بنویس. هر ترکیب یک زاویه داشته باشد: نتیجه، سرعت، صرفه، اعتماد و دردِ مشتری.",
+  "en": "For a landing page for [product or service] aimed at [audience], write five combos of headline (max 10 words), subheadline (max 25 words) and button text. Each combo takes one angle: outcome, speed, savings, trust and customer pain.",
+  "summary": "گزینه‌های بخش Hero برای تست A/B؛ وقتی نرخ تبدیل صفحه فرود پایین است.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "gemini"
+  ],
+  "tags": [
+   "صفحه فرود",
+   "تیتر",
+   "تست A/B",
+   "کپی‌رایتینگ"
+  ]
+ },
+ {
+  "slug": "seo-landing-objection-section",
+  "category": "seo",
+  "sub": "landing",
+  "title": "بخش رفع تردید خریدار",
+  "fa": "تردیدهای رایج مشتریان [محصول] این‌هاست: [تردیدها، مثل گرانی، اعتماد به خرید آنلاین، ارسال]. برای صفحه فرود یک بخش «چرا با خیال راحت بخرید» بنویس: برای هر تردید یک تیتر کوتاه و یک پاسخ دوجمله‌ای با ضمانت یا دلیل مشخص.",
+  "en": "Common doubts of [product] customers: [doubts, e.g. price, trust in online shopping, delivery]. Write a \"buy with confidence\" landing section: for each doubt a short heading and a two-sentence answer with a specific guarantee or reason.",
+  "summary": "بخش پاسخ به اعتراض‌ها در صفحه فرود؛ برای کاهش ترک صفحه قبل از خرید.",
+  "tools": [
+   "chatgpt",
+   "claude"
+  ],
+  "tags": [
+   "صفحه فرود",
+   "رفع تردید",
+   "اعتماد",
+   "نرخ تبدیل"
+  ]
+ },
+ {
+  "slug": "seo-landing-pricing-section",
+  "category": "seo",
+  "sub": "landing",
+  "title": "متن بخش قیمت و پلن‌ها",
+  "fa": "پلن‌های من: [نام، قیمت و امکانات هر پلن]. برای بخش قیمت صفحه فرود، برای هر پلن یک جمله «مناسب چه کسی است»، فهرست امکانات به زبان سود، برچسب «پرفروش‌ترین» برای پلن مناسب و یک جمله ضمانت یا بازگشت وجه زیر جدول بنویس.",
+  "en": "My plans: [name, price and features of each]. For the landing pricing section, write a \"who it's for\" line per plan, benefit-led feature lists, a \"most popular\" label on the right plan, and one guarantee or refund line under the table.",
+  "summary": "متن بخش پلن‌ها و قیمت که انتخاب را ساده می‌کند؛ برای سرویس‌های اشتراکی و دوره‌ها.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "gemini"
+  ],
+  "tags": [
+   "صفحه قیمت",
+   "پلن",
+   "صفحه فرود",
+   "فروش اشتراک"
+  ]
+ },
+ {
+  "slug": "seo-landing-testimonial-request",
+  "category": "seo",
+  "sub": "landing",
+  "title": "گرفتن رضایت‌نامه از مشتری",
+  "fa": "پیامی کوتاه برای مشتریان راضی [کسب‌وکار] بنویس که از آن‌ها نظر برای صفحه فرود بخواهد. سه سؤال هدایت‌کننده بگذار (وضعیت قبل، تجربه، نتیجه) تا جواب‌ها مشخص و قابل استفاده باشد، و اجازه انتشار نام و عکس را مؤدبانه بپرس.",
+  "en": "Write a short message to happy [business] customers asking for a testimonial for the landing page. Include three guiding questions (before, experience, result) so answers are specific and usable, and politely ask permission to publish their name and photo.",
+  "summary": "پیام درخواست نظر با سؤال‌های هدایت‌شده؛ برای جمع کردن شواهد اجتماعی واقعی.",
+  "tools": [
+   "chatgpt",
+   "claude"
+  ],
+  "tags": [
+   "رضایت‌نامه",
+   "اثبات اجتماعی",
+   "صفحه فرود",
+   "مشتری"
+  ]
+ },
+ {
+  "slug": "seo-landing-course-webinar",
+  "category": "seo",
+  "sub": "landing",
+  "title": "صفحه ثبت‌نام دوره یا وبینار",
+  "fa": "متن صفحه ثبت‌نام دوره [نام دوره] برای [مخاطب] را بنویس: تیتر نتیجه‌محور، این دوره برای چه کسی هست و نیست، سرفصل‌ها به زبان مهارت، معرفی مدرس [سابقه]، زمان و شیوه برگزاری، قیمت [قیمت]، ظرفیت و پرسش‌های متداول.",
+  "en": "Write the registration page copy for the [course name] course for [audience]: outcome-led headline, who it is and isn't for, syllabus framed as skills, instructor intro [background], schedule and format, price [price], capacity and FAQ.",
+  "summary": "صفحه فروش کامل دوره آموزشی یا وبینار؛ برای مدرس‌ها و آکادمی‌های آنلاین.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "gemini"
+  ],
+  "tags": [
+   "صفحه ثبت‌نام",
+   "دوره آنلاین",
+   "وبینار",
+   "متن فروش"
+  ]
+ },
+ {
+  "slug": "seo-landing-app-download",
+  "category": "seo",
+  "sub": "landing",
+  "title": "صفحه معرفی و دانلود اپلیکیشن",
+  "fa": "برای اپلیکیشن [نام اپ] که [کار اصلی] انجام می‌دهد، متن صفحه معرفی بنویس: تیتر، سه قابلیت اصلی با جمله سود، بخش «چطور کار می‌کند» در سه مرحله، دکمه‌های دانلود از کافه‌بازار، مایکت و نسخه مستقیم، و پاسخ به نگرانی حریم خصوصی.",
+  "en": "For the [app name] app that [main job], write the landing page: headline, three core features with benefit lines, a three-step \"how it works\", download buttons for Cafe Bazaar, Myket and direct APK, and an answer to privacy concerns.",
+  "summary": "متن صفحه معرفی اپ با مسیر دانلود از بازارهای ایرانی؛ برای افزایش نصب.",
+  "tools": [
+   "chatgpt",
+   "claude"
+  ],
+  "tags": [
+   "اپلیکیشن",
+   "کافه‌بازار",
+   "صفحه فرود",
+   "دانلود"
+  ]
+ },
+ {
+  "slug": "seo-landing-b2b-service",
+  "category": "seo",
+  "sub": "landing",
+  "title": "صفحه خدمت شرکتی (B2B)",
+  "fa": "برای خدمت [خدمت] که به شرکت‌های [صنعت] ارائه می‌دهیم، متن صفحه خدمت بنویس: مسئله‌ای که مدیران با آن درگیرند، رویکرد ما در چهار مرحله، نتایج نمونه با عدد [نتایج]، مشتریان قبلی، فرم درخواست مشاوره و پرسش‌های متداول مدیران خرید.",
+  "en": "For our [service] for companies in [industry], write the service page: the problem managers face, our four-step approach, sample results with numbers [results], past clients, a consultation request form and FAQs from procurement managers.",
+  "summary": "صفحه خدمت حرفه‌ای برای جذب سرنخ سازمانی؛ برای شرکت‌های خدماتی و مشاوره.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "gemini"
+  ],
+  "tags": [
+   "B2B",
+   "صفحه خدمات",
+   "جذب سرنخ",
+   "فروش سازمانی"
+  ]
+ },
+ {
+  "slug": "seo-landing-cta-microcopy",
+  "category": "seo",
+  "sub": "landing",
+  "title": "متن دکمه و ریزنوشته‌ها",
+  "fa": "برای صفحه [نوع صفحه] ریزنوشته‌ها را بنویس: پنج گزینه متن دکمه اصلی، متن کوچک زیر دکمه که تردید را کم کند، پیام خطای فرم، پیام موفقیت پس از ثبت، و متن پاپ‌آپ خروج. کوتاه، فارسی روان و بدون اصطلاح ترجمه‌ای.",
+  "en": "Write the microcopy for a [page type]: five main button text options, a small line under the button that reduces hesitation, form error message, success message after submit, and exit pop-up text. Short, fluent Persian, no translated-sounding phrases.",
+  "summary": "متن‌های کوچک ولی تعیین‌کننده رابط کاربری؛ برای افزایش کلیک و تکمیل فرم.",
+  "tools": [
+   "chatgpt",
+   "claude"
+  ],
+  "tags": [
+   "میکروکپی",
+   "دکمه CTA",
+   "تجربه کاربری",
+   "فرم"
+  ]
+ },
+ {
+  "slug": "seo-landing-copy-audit",
+  "category": "seo",
+  "sub": "landing",
+  "title": "نقد متن صفحه فرود",
+  "fa": "متن صفحه فرود من این است: [متن]. مثل یک کپی‌رایتر سخت‌گیر نقدش کن: وضوح پیشنهاد در ۵ ثانیه اول، سود در برابر ویژگی، شواهد اعتماد، فراخوان عمل و طول متن. به هر مورد نمره ۱ تا ۱۰ بده و بخش‌های ضعیف را بازنویسی کن.",
+  "en": "Here is my landing page copy: [text]. Critique it like a tough copywriter: offer clarity in the first 5 seconds, benefits vs. features, trust signals, call to action and length. Score each 1–10 and rewrite the weak parts.",
+  "summary": "ممیزی و بازنویسی صفحه فرود موجود؛ قبل از خرج کردن بودجه تبلیغات روی آن.",
+  "tools": [
+   "claude",
+   "chatgpt",
+   "gemini"
+  ],
+  "tags": [
+   "صفحه فرود",
+   "ممیزی",
+   "کپی‌رایتینگ",
+   "نرخ تبدیل"
+  ]
+ },
+ {
+  "slug": "seo-landing-sale-campaign",
+  "category": "seo",
+  "sub": "landing",
+  "title": "صفحه کمپین حراج مناسبتی",
+  "fa": "برای کمپین [مناسبت مثل یلدا یا بلک‌فرایدی] فروشگاه [نام فروشگاه] متن صفحه کمپین بنویس: تیتر با درصد تخفیف [درصد]، شمارش معکوس، دسته‌های شامل تخفیف، قوانین کمپین به زبان ساده، کد تخفیف [کد] و یک بخش «سؤالات رایج حراج».",
+  "en": "For the [occasion, e.g. Yalda or Black Friday] campaign of [store name], write the campaign page: headline with [percent] discount, countdown, discounted categories, campaign rules in plain words, discount code [code] and a sale FAQ section.",
+  "summary": "صفحه کمپین مناسبتی آماده و روشن؛ برای حراج‌های فصلی فروشگاه‌های ایرانی.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "gemini"
+  ],
+  "tags": [
+   "کمپین فروش",
+   "حراج",
+   "یلدا",
+   "بلک‌فرایدی"
+  ]
+ },
+ {
+  "slug": "seo-landing-about-us",
+  "category": "seo",
+  "sub": "landing",
+  "title": "صفحه درباره ما اعتمادساز",
+  "fa": "صفحه «درباره ما» برای [کسب‌وکار] بنویس که اعتماد بسازد: داستان شروع [داستان]، چه کاری را متفاوت انجام می‌دهیم، اعداد واقعی [سال فعالیت، تعداد مشتری]، تیم، نماد اعتماد و مجوزها، و آدرس و راه تماس. از جمله‌های کلیشه‌ای مثل «با بهترین کیفیت» پرهیز کن.",
+  "en": "Write an About Us page for [business] that builds trust: founding story [story], what we do differently, real numbers [years active, customers], team, eNamad trust seal and licenses, and address and contact. Avoid clichés like \"best quality\".",
+  "summary": "صفحه درباره ما واقعی و قابل اعتماد؛ برای سایت‌های تازه و فروشگاه‌هایی که اعتماد کاربر پایین است.",
+  "tools": [
+   "chatgpt",
+   "claude"
+  ],
+  "tags": [
+   "درباره ما",
+   "اعتماد",
+   "اینماد",
+   "برندینگ"
+  ]
+ },
+ {
+  "slug": "seo-tech-robots-sitemap-review",
+  "category": "seo",
+  "sub": "technical",
+  "title": "بررسی robots.txt و نقشه سایت",
+  "fa": "تو متخصص سئوی فنی هستی. این فایل robots.txt و بخشی از sitemap سایت وردپرسی من است: [محتوا]. خطاها را پیدا کن (مسدودشدن صفحه‌های مهم، آدرس‌های noindex در نقشه، پارامترها، صفحه‌های جست‌وجو و سبد خرید) و نسخه اصلاح‌شده را با توضیح هر خط بده.",
+  "en": "You are a technical SEO expert. Here are my WordPress site's robots.txt and part of its sitemap: [content]. Find errors (blocked important pages, noindex URLs in the sitemap, parameters, search and cart pages) and give a corrected version with each line explained.",
+  "summary": "خطاهای خزش و ایندکس در robots و sitemap را پیدا و اصلاح می‌کند؛ بعد از افت ناگهانی ایندکس.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "copilot"
+  ],
+  "tags": [
+   "robots.txt",
+   "نقشه سایت",
+   "ایندکس",
+   "سئو فنی"
+  ]
+ },
+ {
+  "slug": "seo-tech-product-schema",
+  "category": "seo",
+  "sub": "technical",
+  "title": "اسکیمای محصول JSON-LD",
+  "fa": "برای محصول [نام محصول] با قیمت [قیمت به تومان]، موجودی [وضعیت]، برند [برند]، امتیاز [امتیاز و تعداد نظر] کد JSON-LD نوع Product با Offer و AggregateRating بنویس. واحد پول را IRR و قیمت را به ریال تبدیل کن و بگو با کدام ابزار گوگل تستش کنم.",
+  "en": "Write Product JSON-LD with Offer and AggregateRating for [product name], price [price in toman], availability [status], brand [brand], rating [rating and review count]. Use IRR as currency, convert the price to rials, and tell me which Google tool to test it with.",
+  "summary": "کد اسکیمای محصول آماده برای ستاره و قیمت در نتایج گوگل؛ با نکته تبدیل تومان به ریال.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "copilot"
+  ],
+  "tags": [
+   "اسکیما",
+   "JSON-LD",
+   "داده ساختاریافته",
+   "ریچ اسنیپت"
+  ]
+ },
+ {
+  "slug": "seo-tech-redirect-map",
+  "category": "seo",
+  "sub": "technical",
+  "title": "نقشه ریدایرکت برای انتقال سایت",
+  "fa": "دارم سایت را از [ساختار قدیمی] به [ساختار جدید] منتقل می‌کنم. این آدرس‌های قدیمی و جدید را دارم: [فهرست]. جدول ریدایرکت ۳۰۱ یک‌به‌یک بساز، آدرس‌هایی که معادل ندارند را با بهترین صفحه مرتبط جفت کن و چک‌لیست ۱۰ مرحله‌ای قبل و بعد از انتقال بده.",
+  "en": "I'm migrating my site from [old structure] to [new structure]. Old and new URLs: [list]. Build a one-to-one 301 redirect table, pair URLs without an equivalent with the closest relevant page, and give a 10-step before/after migration checklist.",
+  "summary": "نقشه ریدایرکت و چک‌لیست انتقال برای حفظ رتبه؛ هنگام تغییر دامنه، قالب یا ساختار URL.",
+  "tools": [
+   "chatgpt",
+   "claude"
+  ],
+  "tags": [
+   "ریدایرکت ۳۰۱",
+   "انتقال سایت",
+   "سئو فنی",
+   "ساختار URL"
+  ]
+ },
+ {
+  "slug": "seo-tech-search-console-errors",
+  "category": "seo",
+  "sub": "technical",
+  "title": "رفع خطاهای سرچ کنسول",
+  "fa": "گزارش Pages در سرچ کنسول این خطاها را نشان می‌دهد: [نوع خطا و تعداد و نمونه آدرس]. برای هر خطا به زبان ساده بگو یعنی چه، آیا نگران‌کننده است یا طبیعی، و قدم‌به‌قدم در وردپرس چطور رفعش کنم. به ترتیب اولویت مرتب کن.",
+  "en": "Search Console's Pages report shows these issues: [issue type, count and sample URLs]. For each, explain in plain words what it means, whether it's a concern or normal, and step by step how to fix it in WordPress. Order by priority.",
+  "summary": "توضیح ساده و راه رفع هر خطای ایندکس سرچ کنسول؛ برای صاحبان سایت غیرفنی.",
+  "tools": [
+   "chatgpt",
+   "gemini",
+   "claude"
+  ],
+  "tags": [
+   "سرچ کنسول",
+   "خطای ایندکس",
+   "وردپرس",
+   "سئو فنی"
+  ]
+ },
+ {
+  "slug": "seo-tech-reportage-backlink-plan",
+  "category": "seo",
+  "sub": "technical",
+  "title": "برنامه رپورتاژ و بک‌لینک",
+  "fa": "با بودجه ماهانه [بودجه] برای سایت [حوزه سایت] یک برنامه سه‌ماهه بک‌لینک بنویس: ترکیب رپورتاژ خبری، مهمان‌نویسی و لینک طبیعی، معیار انتخاب سایت (مرتبط بودن، ترافیک واقعی، تعداد لینک خروجی)، توزیع انکرتکست و هشدارهای جریمه گوگل.",
+  "en": "With a monthly budget of [budget] for a [site niche] site, write a three-month backlink plan: mix of sponsored news reportage, guest posts and natural links, site selection criteria (relevance, real traffic, outbound links), anchor text distribution and Google penalty warnings.",
+  "summary": "برنامه لینک‌سازی بیرونی متعادل و کم‌خطر؛ قبل از خرید رپورتاژ از پلتفرم‌های ایرانی.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "perplexity"
+  ],
+  "tags": [
+   "بک‌لینک",
+   "رپورتاژ",
+   "انکرتکست",
+   "لینک‌سازی"
+  ]
+ },
+ {
+  "slug": "seo-local-gbp-description",
+  "category": "seo",
+  "sub": "local",
+  "title": "توضیحات پروفایل کسب‌وکار گوگل",
+  "fa": "برای پروفایل Google Business کسب‌وکار [نوع کسب‌وکار] در [محله، شهر] توضیحی حداکثر ۷۵۰ نویسه بنویس: خدمات اصلی، مزیت متمایز، ساعت کاری [ساعت]، محله‌هایی که پوشش می‌دهیم و یک دعوت به تماس. کلیدواژه «[خدمت] در [شهر]» طبیعی بیاید.",
+  "en": "Write a Google Business Profile description (max 750 characters) for a [business type] in [neighborhood, city]: main services, differentiator, opening hours [hours], areas served and a call to action. Include \"[service] in [city]\" naturally.",
+  "summary": "توضیح بهینه پروفایل گوگل مپ برای دیده‌شدن در جست‌وجوی محلی؛ هنگام ثبت یا بازسازی پروفایل.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "gemini"
+  ],
+  "tags": [
+   "گوگل مپ",
+   "سئو محلی",
+   "پروفایل کسب‌وکار",
+   "جست‌وجوی محلی"
+  ]
+ },
+ {
+  "slug": "seo-local-neshan-balad-listing",
+  "category": "seo",
+  "sub": "local",
+  "title": "ثبت در نشان و بلد",
+  "fa": "برای ثبت [نام کسب‌وکار] در نقشه‌های نشان و بلد، اطلاعات یکدست آماده کن: نام دقیق، دسته مناسب، توضیح کوتاه ۲۰۰ نویسه‌ای، ساعت کاری، کلیدواژه‌های فرعی و فهرست عکس‌هایی که باید بگیرم. بگو چرا نام و آدرس و تلفن باید در همه نقشه‌ها یکسان باشد.",
+  "en": "To list [business name] on the Neshan and Balad maps, prepare consistent info: exact name, best category, a 200-character description, opening hours, secondary keywords and a list of photos to take. Explain why name, address and phone must match across all maps.",
+  "summary": "بسته اطلاعات یکسان برای نقشه‌های ایرانی؛ برای پیدا شدن کسب‌وکار در مسیریاب‌ها.",
+  "tools": [
+   "chatgpt",
+   "claude"
+  ],
+  "tags": [
+   "نشان",
+   "بلد",
+   "سئو محلی",
+   "NAP"
+  ]
+ },
+ {
+  "slug": "seo-local-city-service-pages",
+  "category": "seo",
+  "sub": "local",
+  "title": "صفحه خدمت برای چند شهر",
+  "fa": "خدمت [خدمت] را در این شهرها ارائه می‌دهیم: [شهرها]. برای هر شهر ساختار یک صفحه یکتا بنویس: تیتر، یک پاراگراف با اشاره به ویژگی یا نیاز خاص آن شهر، زمان پاسخ‌گویی در آن شهر، نمونه کار محلی و FAQ. نگذار صفحه‌ها فقط با تعویض نام شهر تکراری شوند.",
+  "en": "We offer [service] in these cities: [cities]. For each city outline a unique page: headline, a paragraph referring to that city's specific traits or needs, response time there, a local case example and FAQ. Don't let pages become duplicates with only the city name swapped.",
+  "summary": "صفحه‌های شهرمحور یکتا بدون محتوای تکراری؛ برای خدمات چندشهری.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "gemini"
+  ],
+  "tags": [
+   "سئو محلی",
+   "صفحه شهر",
+   "محتوای تکراری",
+   "خدمات"
+  ]
+ },
+ {
+  "slug": "seo-local-review-request-sms",
+  "category": "seo",
+  "sub": "local",
+  "title": "پیامک درخواست نظر در گوگل مپ",
+  "fa": "سه پیامک کوتاه (هر کدام حداکثر ۷۰ نویسه فارسی) بنویس که پس از خرید یا خدمت از مشتریان [کسب‌وکار] بخواهد در گوگل مپ نظر بدهند، با جای لینک کوتاه [لینک]. لحن صمیمی، بدون التماس و بدون پیشنهاد هدیه در ازای نظر مثبت.",
+  "en": "Write three short SMS messages (max 70 Persian characters each) asking [business] customers to leave a Google Maps review after purchase or service, with a slot for a short link [link]. Friendly tone, no begging and no gifts in exchange for positive reviews.",
+  "summary": "پیامک‌های مؤدب جمع‌آوری نظر واقعی؛ برای بالا بردن امتیاز و دیده‌شدن در نقشه.",
+  "tools": [
+   "chatgpt",
+   "claude"
+  ],
+  "tags": [
+   "نظر مشتری",
+   "گوگل مپ",
+   "پیامک",
+   "سئو محلی"
+  ]
+ },
+ {
+  "slug": "seo-local-negative-review-reply",
+  "category": "seo",
+  "sub": "local",
+  "title": "پاسخ عمومی به نظر منفی",
+  "fa": "این نظر منفی در گوگل مپ برای [کسب‌وکار] ثبت شده: [متن نظر]. یک پاسخ عمومی کوتاه بنویس که همدلی کند، بدون بحث و انکار توضیح بدهد، راه پیگیری خصوصی [شماره یا ایمیل] را بگذارد و برای خواننده‌های بعدی حرفه‌ای به نظر برسد.",
+  "en": "This negative Google Maps review was left for [business]: [review text]. Write a short public reply that empathizes, explains without arguing or denying, gives a private follow-up channel [phone or email] and looks professional to future readers.",
+  "summary": "پاسخ حرفه‌ای به نقد عمومی که اعتماد بقیه مشتریان را حفظ می‌کند؛ بلافاصله بعد از نظر منفی.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "gemini"
+  ],
+  "tags": [
+   "نظر منفی",
+   "مدیریت شهرت",
+   "گوگل مپ",
+   "پاسخ به مشتری"
+  ]
+ },
+ {
+  "slug": "seo-local-gbp-weekly-posts",
+  "category": "seo",
+  "sub": "local",
+  "title": "پست‌های هفتگی پروفایل گوگل",
+  "fa": "برای پروفایل گوگل [کسب‌وکار] در [شهر] هشت پست کوتاه (هر کدام ۱۰۰ تا ۱۵۰ کلمه) برای دو ماه بنویس: معرفی خدمت، پیشنهاد ویژه، نمونه کار، نکته آموزشی و مناسبت محلی. برای هر پست نوع دکمه (تماس، سفارش، بیشتر بدانید) و ایده عکس را بنویس.",
+  "en": "Write eight short posts (100–150 words each) for two months for the Google profile of [business] in [city]: service spotlight, special offer, case example, tip and local occasion. For each, name the button type (call, order, learn more) and a photo idea.",
+  "summary": "تقویم پست پروفایل گوگل برای فعال نگه داشتن کسب‌وکار در نتایج محلی.",
+  "tools": [
+   "chatgpt",
+   "gemini"
+  ],
+  "tags": [
+   "گوگل بیزینس",
+   "پست",
+   "سئو محلی",
+   "تقویم محتوا"
+  ]
+ },
+ {
+  "slug": "seo-local-near-me-keywords",
+  "category": "seo",
+  "sub": "local",
+  "title": "کلیدواژه‌های «نزدیک من» و محله‌ای",
+  "fa": "برای [نوع کسب‌وکار] در [شهر] فهرست کلیدواژه‌های محلی بساز: «نزدیک من»، نام محله‌ها و خیابان‌های اصلی [محله‌ها]، «شبانه‌روزی»، «ارزان» و ترکیب با نام شهر. بگو هر کدام در عنوان، محتوا، پروفایل گوگل یا متن تصویر استفاده شود.",
+  "en": "Build a local keyword list for a [business type] in [city]: \"near me\", main neighborhoods and streets [neighborhoods], \"24-hour\", \"cheap\" and city-name combos. Say whether each belongs in titles, content, the Google profile or image text.",
+  "summary": "کلیدواژه‌های محلی با محل استفاده؛ برای کسب‌وکارهایی که مشتری از اطراف می‌آید.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "gemini"
+  ],
+  "tags": [
+   "نزدیک من",
+   "کلمه کلیدی محلی",
+   "سئو محلی",
+   "محله"
+  ]
+ },
+ {
+  "slug": "seo-local-citation-checklist",
+  "category": "seo",
+  "sub": "local",
+  "title": "چک‌لیست ثبت در دایرکتوری‌ها",
+  "fa": "برای [نوع کسب‌وکار] در [شهر] فهرستی از جاهایی که باید اطلاعات کسب‌وکار ثبت شود پیشنهاد بده: نقشه‌ها، دایرکتوری‌های مشاغل ایرانی، سایت‌های تخصصی صنف، دیوار و شبکه‌های اجتماعی. یک قالب اطلاعات یکسان (NAP) و جدول پیگیری وضعیت ثبت بساز.",
+  "en": "For a [business type] in [city], suggest where its business info should be listed: maps, Iranian business directories, trade-specific sites, Divar and social networks. Create a consistent NAP template and a listing status tracker table.",
+  "summary": "چک‌لیست ثبت اطلاعات کسب‌وکار در منابع محلی با قالب یکسان؛ برای تقویت سیگنال‌های محلی.",
+  "tools": [
+   "chatgpt",
+   "perplexity",
+   "gemini"
+  ],
+  "tags": [
+   "سایتیشن",
+   "دایرکتوری",
+   "NAP",
+   "سئو محلی"
+  ]
+ },
+ {
+  "slug": "seo-local-neighborhood-guide",
+  "category": "seo",
+  "sub": "local",
+  "title": "مقاله راهنمای محله",
+  "fa": "برای جذب جست‌وجوی محلی، مقاله‌ای ۸۰۰ کلمه‌ای بنویس با عنوان «راهنمای [موضوع مرتبط با کسب‌وکار] در [محله یا شهر]»، مثلاً بهترین زمان مراجعه، پارکینگ، دسترسی مترو و نکات بومی. کسب‌وکار [نام] را یک بار طبیعی و غیرتبلیغی معرفی کن.",
+  "en": "To attract local searches, write an 800-word article titled \"Guide to [business-related topic] in [neighborhood or city]\", e.g. best times to visit, parking, metro access and local tips. Mention [business name] once, naturally and non-promotionally.",
+  "summary": "محتوای مفید محلی که اعتبار منطقه‌ای می‌سازد؛ برای کسب‌وکارهای دارای مغازه یا دفتر.",
+  "tools": [
+   "chatgpt",
+   "claude",
+   "perplexity"
+  ],
+  "tags": [
+   "سئو محلی",
+   "محتوای محلی",
+   "راهنمای محله",
+   "وبلاگ"
+  ]
+ }
+]

@@ -1,0 +1,1604 @@
+[
+ {
+  "slug": "iranian-wedding-portrait-cinematic",
+  "category": "image",
+  "sub": "portrait",
+  "title": "پرتره عروسی ایرانی سینمایی",
+  "fa": "پرتره سینمایی از [عروس و داماد] در حیاط یک خانه قدیمی ایرانی با حوض و درخت انار، غروب طلایی، نور نرم از پشت، لنز ۸۵ میلی‌متری، عمق میدان کم، لباس‌های سنتی با جزئیات سوزن‌دوزی، حس گرم و احساسی، کیفیت عکاسی تبلیغاتی، نسبت ۴:۵",
+  "en": "Cinematic portrait of [bride and groom] in the courtyard of an old Persian house with a pool and pomegranate tree, golden sunset, soft backlight, 85mm lens, shallow depth of field, traditional embroidered garments, warm emotional mood, editorial photography quality --ar 4:5",
+  "summary": "یک پرتره عروسی گرم و حرفه‌ای با فضای ایرانی می‌سازد؛ مناسب نمونه‌کار آتلیه یا کارت دعوت.",
+  "tools": [
+   "midjourney",
+   "leonardo",
+   "gemini"
+  ],
+  "tags": [
+   "پرتره",
+   "عروسی",
+   "ایرانی",
+   "سینمایی",
+   "عکاسی"
+  ]
+ },
+ {
+  "slug": "corporate-headshot-natural-light",
+  "category": "image",
+  "sub": "portrait",
+  "title": "عکس پروفایل حرفه‌ای",
+  "fa": "پرتره حرفه‌ای از [توصیف شخص] با لباس رسمی ساده [رنگ]، در دفتر مدرن با پنجره بزرگ و پس‌زمینه محو، نور طبیعی نرم از کنار، لبخند ملایم و نگاه به دوربین، لنز ۸۵ میلی‌متری، تن رنگ خنثی و طبیعی، مناسب لینکدین، نسبت ۱:۱",
+  "en": "Professional headshot of [person description] wearing simple formal [color] attire, in a modern office with a large window and blurred background, soft natural side light, gentle smile looking at camera, 85mm lens, neutral natural color grading, LinkedIn-ready --ar 1:1",
+  "summary": "تصویر پروفایل معتبر و بدون اغراق برای لینکدین، سایت شرکتی یا رزومه.",
+  "tools": [
+   "midjourney",
+   "gemini",
+   "leonardo"
+  ],
+  "tags": [
+   "پرتره",
+   "لینکدین",
+   "پروفایل",
+   "کسب‌وکار"
+  ]
+ },
+ {
+  "slug": "double-exposure-portrait-city",
+  "category": "image",
+  "sub": "portrait",
+  "title": "پرتره دابل‌اکسپوژر",
+  "fa": "پرتره دابل‌اکسپوژر از نیم‌رخ [شخص] که درونش منظره‌ی [شهر یا طبیعت] ادغام شده، پس‌زمینه سفید تمیز، کنتراست بالا، رنگ‌های سرد با یک لهجه گرم، لبه‌های نرم و محو، سبک گرافیکی مینیمال، مناسب کاور یا پوستر، نسبت ۴:۵",
+  "en": "Double-exposure portrait of [person] in profile, with a [city or nature] landscape blended inside the silhouette, clean white background, high contrast, cool tones with one warm accent, soft faded edges, minimal graphic style, suitable for a cover or poster --ar 4:5",
+  "summary": "تصویر مفهومی و شیک برای کاور کتاب، پوستر همایش یا پروفایل هنری.",
+  "tools": [
+   "midjourney",
+   "dalle",
+   "leonardo"
+  ],
+  "tags": [
+   "پرتره",
+   "دابل‌اکسپوژر",
+   "مفهومی",
+   "پوستر"
+  ]
+ },
+ {
+  "slug": "bandari-elder-woman-documentary-portrait",
+  "category": "image",
+  "sub": "portrait",
+  "title": "پرتره مستند زن بندری",
+  "fa": "پرتره مستند از [زن سالمند بندری] با برقع سنتی و چادر رنگی، نور نرم صبح ساحل خلیج فارس، نگاه مستقیم به دوربین، جزئیات واضح چین‌وچروک پوست، پس‌زمینه‌ی محو لنج‌های چوبی، لنز ۸۵ میلی‌متری، سبک عکاسی مستند مجله‌ای، نسبت ۴:۵",
+  "en": "Documentary portrait of [elderly Bandari woman] wearing a traditional burqa mask and colorful chador, soft morning light on the Persian Gulf shore, direct gaze into the camera, crisp skin texture, blurred wooden dhows behind, 85mm lens, magazine documentary style --ar 4:5",
+  "summary": "پرتره‌ای اصیل و پرجزئیات از فرهنگ جنوب ایران؛ مناسب گزارش تصویری، کتاب عکس یا معرفی گردشگری.",
+  "tools": [
+   "midjourney",
+   "leonardo",
+   "flux"
+  ],
+  "tags": [
+   "پرتره",
+   "مستند",
+   "بندری",
+   "خلیج فارس"
+  ]
+ },
+ {
+  "slug": "rembrandt-light-bw-studio-portrait",
+  "category": "image",
+  "sub": "portrait",
+  "title": "پرتره سیاه‌وسفید با نور رامبراند",
+  "fa": "پرتره‌ی سیاه‌وسفید استودیویی از [توصیف شخص]، نور رامبراند با مثلث نوری زیر چشم سایه‌دار، پس‌زمینه‌ی خاکستری تیره، کنتراست بالا، دانه‌ی ریز فیلم، نگاه کمی پایین‌تر از لنز، لنز ۱۰۵ میلی‌متری، حس هنری و آرام، نسبت ۴:۵",
+  "en": "Black-and-white studio portrait of [person description], Rembrandt lighting with the light triangle under the shadowed eye, dark grey backdrop, high contrast, fine film grain, gaze slightly below the lens, 105mm lens, calm artistic mood --ar 4:5",
+  "summary": "پرتره‌ی کلاسیک و هنری با نورپردازی دقیق می‌سازد؛ برای پروفایل هنرمند، نویسنده یا کاور کتاب.",
+  "tools": [
+   "midjourney",
+   "flux",
+   "leonardo"
+  ],
+  "tags": [
+   "پرتره",
+   "سیاه‌وسفید",
+   "نورپردازی",
+   "استودیو"
+  ]
+ },
+ {
+  "slug": "child-portrait-soft-window-light",
+  "category": "image",
+  "sub": "portrait",
+  "title": "پرتره کودک با نور پنجره",
+  "fa": "پرتره‌ی طبیعی از [کودک با سن و ظاهر] که کنار پنجره نشسته و به بیرون نگاه می‌کند، نور نرم روز از کنار، پرده‌ی توری سفید، رنگ‌های روشن و کرم، لبخند کوچک و بی‌تکلف، عمق میدان کم، سبک عکاسی خانوادگی لایف‌استایل، نسبت ۳:۲",
+  "en": "Natural portrait of [child age and look] sitting by a window looking outside, soft side daylight, white lace curtain, light creamy tones, a small unposed smile, shallow depth of field, lifestyle family photography style --ar 3:2",
+  "summary": "تصویری گرم و طبیعی از کودک برای آتلیه، تبلیغ محصولات کودک یا پست‌های خانوادگی.",
+  "tools": [
+   "midjourney",
+   "gemini",
+   "flux"
+  ],
+  "tags": [
+   "پرتره",
+   "کودک",
+   "نور طبیعی",
+   "لایف‌استایل"
+  ]
+ },
+ {
+  "slug": "fashion-editorial-color-gel-portrait",
+  "category": "image",
+  "sub": "portrait",
+  "title": "پرتره مد با نور ژل رنگی",
+  "fa": "پرتره‌ی ادیتوریال مد از [مدل و لباس]، نورپردازی دوگانه با ژل [رنگ ۱] از چپ و [رنگ ۲] از راست، پس‌زمینه‌ی ساده‌ی تیره، آرایش جسور، ژست مطمئن با شانه‌ی چرخیده، پوست با بافت واقعی، سبک مجله‌ی مد، فوکوس تیز روی چشم‌ها، نسبت ۲:۳",
+  "en": "Fashion editorial portrait of [model and outfit], dual lighting with a [color 1] gel from the left and a [color 2] gel from the right, plain dark backdrop, bold makeup, confident pose with turned shoulder, real skin texture, fashion magazine style, tack-sharp eyes --ar 2:3",
+  "summary": "پرتره‌ی پرانرژی و مدرن برای برند پوشاک، کاور موسیقی یا کمپین شبکه‌های اجتماعی.",
+  "tools": [
+   "midjourney",
+   "leonardo",
+   "flux"
+  ],
+  "tags": [
+   "مد",
+   "پرتره",
+   "نور رنگی",
+   "ادیتوریال"
+  ]
+ },
+ {
+  "slug": "craftsman-workshop-environmental-portrait",
+  "category": "image",
+  "sub": "portrait",
+  "title": "پرتره استادکار در کارگاه",
+  "fa": "پرتره‌ی محیطی از [استادکار، مثلاً قلم‌زن یا سفالگر] در کارگاه سنتی‌اش، مشغول کار با دست‌های پرجزئیات، نور گرم از یک دریچه‌ی سقفی، گردوغبار معلق در نور، ابزارهای قدیمی روی دیوار، رنگ‌های خاکی، لنز ۳۵ میلی‌متری، سبک داستان‌گویی مستند، نسبت ۳:۲",
+  "en": "Environmental portrait of [craftsman, e.g. metal engraver or potter] in his traditional workshop, hands busy with detailed work, warm light from a skylight, dust floating in the beam, old tools on the wall, earthy palette, 35mm lens, documentary storytelling style --ar 3:2",
+  "summary": "پرتره‌ای روایی از صنایع‌دستی ایران؛ برای معرفی هنرمند، فروشگاه صنایع‌دستی یا مقاله‌ی فرهنگی.",
+  "tools": [
+   "midjourney",
+   "leonardo",
+   "gemini"
+  ],
+  "tags": [
+   "پرتره محیطی",
+   "صنایع‌دستی",
+   "مستند",
+   "کارگاه"
+  ]
+ },
+ {
+  "slug": "persian-tea-product-shot-studio",
+  "category": "image",
+  "sub": "product",
+  "title": "عکس محصول چای ایرانی",
+  "fa": "عکس استودیویی از [بسته چای] روی سنگ مرمر تیره، کنارش استکان کمر‌باریک با چای قرمز و بخار نرم، چند دانه هل و نبات، نور جانبی گرم با سایه‌های روشن، پس‌زمینه تیره ساده، فوکوس روی لوگو، عکاسی تبلیغاتی سطح بالا، نسبت ۱:۱",
+  "en": "Studio product shot of [tea package] on dark marble, beside a slim Persian tea glass with red tea and soft steam, a few cardamom pods and rock candy, warm side lighting with gentle shadows, plain dark backdrop, sharp focus on the label, high-end commercial photography --ar 1:1",
+  "summary": "عکس تبلیغاتی تمیز و حرفه‌ای برای فروش آنلاین یا پست اینستاگرام محصول خوراکی می‌دهد.",
+  "tools": [
+   "midjourney",
+   "dalle",
+   "leonardo"
+  ],
+  "tags": [
+   "عکس محصول",
+   "چای",
+   "استودیو",
+   "تبلیغات"
+  ]
+ },
+ {
+  "slug": "perfume-bottle-luxury-ad",
+  "category": "image",
+  "sub": "product",
+  "title": "تبلیغ لوکس شیشه عطر",
+  "fa": "عکس تبلیغاتی لوکس از شیشه عطر [نام برند] روی سطح شیشه‌ای تیره با قطره‌های آب، پس‌زمینه ابریشم [رنگ] موج‌دار، نور ریم‌لایت طلایی از پشت، انعکاس‌های دقیق، چند گلبرگ شناور، ترکیب‌بندی مرکزی، حس گران‌قیمت، نسبت ۴:۵",
+  "en": "Luxury advertising photo of a [brand name] perfume bottle on dark wet glass with water droplets, rippling [color] silk backdrop, golden rim light from behind, precise reflections, a few floating petals, centered composition, expensive premium feel --ar 4:5",
+  "summary": "ویژوال تبلیغاتی سطح بالا برای فروشگاه عطر، بنر سایت یا کمپین اینستاگرام.",
+  "tools": [
+   "midjourney",
+   "leonardo",
+   "dalle"
+  ],
+  "tags": [
+   "عطر",
+   "لوکس",
+   "تبلیغات",
+   "عکس محصول"
+  ]
+ },
+ {
+  "slug": "sneaker-product-floating-studio",
+  "category": "image",
+  "sub": "product",
+  "title": "کفش معلق در استودیو",
+  "fa": "عکس تبلیغاتی از [نوع کفش] [رنگ] معلق در هوا با چرخش ۳۰ درجه، پس‌زمینه گرادیان [رنگ] با نور حلقه‌ای، ذرات شن یا آب در حال پاشیدن اطرافش، نور شدید از پایین برای تأکید روی زیره، سایه نرم زیر کفش، سبک کمپین نایکی، نسبت ۴:۵",
+  "en": "Commercial photo of a [color] [shoe type] floating mid-air with a 30-degree twist, [color] gradient backdrop with ring light, particles of sand or water splashing around it, strong uplight emphasizing the sole, soft shadow beneath, Nike-campaign style --ar 4:5",
+  "summary": "ویژوال پرانرژی برای فروشگاه کفش و پوشاک، بنر تخفیف یا تیزر محصول.",
+  "tools": [
+   "midjourney",
+   "leonardo",
+   "dalle"
+  ],
+  "tags": [
+   "کفش",
+   "عکس محصول",
+   "تبلیغات",
+   "اسپرت"
+  ]
+ },
+ {
+  "slug": "skincare-serum-water-splash-shot",
+  "category": "image",
+  "sub": "product",
+  "title": "سرم پوست با پاشش آب",
+  "fa": "عکس تبلیغاتی از [شیشه‌ی سرم یا کرم] در مرکز قاب با پاشش آب شفاف و قطره‌های معلق اطرافش، پس‌زمینه‌ی گرادیان [رنگ پاستلی]، نور پشتی که مایع را درخشان می‌کند، برگ‌های [گیاه] کنار محصول، تمیز و تازه، کیفیت کاتالوگ، نسبت ۴:۵",
+  "en": "Advertising shot of [serum bottle or cream jar] centered with a clear water splash and droplets suspended around it, [pastel color] gradient background, backlight making the liquid glow, [plant] leaves beside the product, clean and fresh, catalog quality --ar 4:5",
+  "summary": "عکس پرطراوت برای محصولات آرایشی و بهداشتی؛ مناسب صفحه‌ی محصول و تبلیغ اینستاگرامی.",
+  "tools": [
+   "midjourney",
+   "flux",
+   "leonardo"
+  ],
+  "tags": [
+   "عکس محصول",
+   "آرایشی",
+   "پاشش آب",
+   "تبلیغات"
+  ]
+ },
+ {
+  "slug": "handmade-ceramics-lifestyle-shot",
+  "category": "image",
+  "sub": "product",
+  "title": "سفال دست‌ساز در فضای زندگی",
+  "fa": "عکس لایف‌استایل از [ظروف سفالی دست‌ساز با لعاب فیروزه‌ای] روی میز چوبی کنار پنجره، یک دست در حال برداشتن فنجان، نان و پنیر و سبزی کنارش، نور صبح نرم، رنگ‌های طبیعی و گرم، ترکیب‌بندی نامتقارن، حس خانه‌ی ایرانی، نسبت ۴:۵",
+  "en": "Lifestyle shot of [handmade ceramics with turquoise glaze] on a wooden table by a window, a hand reaching for a cup, bread, cheese and fresh herbs nearby, soft morning light, natural warm tones, asymmetric composition, Iranian home feeling --ar 4:5",
+  "summary": "محصول را در فضای واقعی استفاده نشان می‌دهد؛ برای فروشگاه آنلاین صنایع‌دستی و پیج اینستاگرام.",
+  "tools": [
+   "midjourney",
+   "gemini",
+   "flux"
+  ],
+  "tags": [
+   "عکس محصول",
+   "سفال",
+   "لایف‌استایل",
+   "صنایع‌دستی"
+  ]
+ },
+ {
+  "slug": "smartwatch-dark-tech-hero-shot",
+  "category": "image",
+  "sub": "product",
+  "title": "عکس قهرمانی ساعت هوشمند",
+  "fa": "عکس قهرمانی (هیرو) از [ساعت هوشمند یا گجت] روی سکوی سنگی سیاه، پس‌زمینه‌ی تاریک با خطوط نور [رنگ نئون] باریک، بازتاب روی شیشه‌ی صفحه، نور لبه‌ای سرد، دود ملایم در پایین، زاویه‌ی کمی از پایین، حس فناوری لوکس، نسبت ۱۶:۹",
+  "en": "Hero shot of [smartwatch or gadget] on a black stone pedestal, dark background with thin [neon color] light streaks, reflections on the screen glass, cool rim light, soft haze at the bottom, slightly low angle, luxury tech mood --ar 16:9",
+  "summary": "تصویر بنر اصلی برای معرفی محصول دیجیتال در سایت یا لانچ کمپین.",
+  "tools": [
+   "midjourney",
+   "flux",
+   "leonardo"
+  ],
+  "tags": [
+   "گجت",
+   "عکس محصول",
+   "تکنولوژی",
+   "بنر"
+  ]
+ },
+ {
+  "slug": "jewelry-ring-velvet-macro",
+  "category": "image",
+  "sub": "product",
+  "title": "انگشتر روی مخمل",
+  "fa": "عکس ماکرو از [انگشتر یا گردنبند طلا با نگین] روی پارچه‌ی مخمل [رنگ تیره]، نور نقطه‌ای که درخشش نگین را برجسته می‌کند، بوکه‌ی ریز طلایی در پس‌زمینه، عمق میدان بسیار کم، جزئیات حکاکی واضح، حس لوکس و صمیمی، نسبت ۱:۱",
+  "en": "Macro shot of [gold ring or necklace with gemstone] on [dark color] velvet, a spotlight emphasizing the gem's sparkle, tiny golden bokeh in the background, very shallow depth of field, sharp engraving details, luxurious intimate mood --ar 1:1",
+  "summary": "عکس جواهر با درخشش طبیعی برای گالری طلا، فروشگاه آنلاین یا تبلیغ مناسبتی.",
+  "tools": [
+   "midjourney",
+   "leonardo",
+   "flux"
+  ],
+  "tags": [
+   "جواهر",
+   "طلا",
+   "ماکرو",
+   "لوکس"
+  ]
+ },
+ {
+  "slug": "ecommerce-white-background-packshot",
+  "category": "image",
+  "sub": "product",
+  "title": "عکس فروشگاهی پس‌زمینه سفید",
+  "fa": "عکس پک‌شات فروشگاهی از [محصول] روی پس‌زمینه‌ی کاملاً سفید (#FFFFFF)، نور یکنواخت سافت‌باکس از دو طرف، سایه‌ی نرم کوتاه زیر محصول، زاویه‌ی سه‌رخ ۴۵ درجه، رنگ‌های دقیق و واقعی، بدون اشیای اضافه، وضوح بالا برای زوم، نسبت ۱:۱",
+  "en": "E-commerce packshot of [product] on a pure white (#FFFFFF) background, even softbox lighting from both sides, short soft shadow under the product, 45-degree three-quarter angle, accurate true-to-life colors, no extra props, high resolution for zoom --ar 1:1",
+  "summary": "عکس استاندارد مارکت‌پلیس‌ها را می‌دهد؛ برای لیست کردن کالا در فروشگاه‌های اینترنتی.",
+  "tools": [
+   "dalle",
+   "flux",
+   "gemini"
+  ],
+  "tags": [
+   "پک‌شات",
+   "فروشگاه اینترنتی",
+   "پس‌زمینه سفید",
+   "کاتالوگ"
+  ]
+ },
+ {
+  "slug": "nowruz-event-poster-typographic",
+  "category": "image",
+  "sub": "poster",
+  "title": "پوستر رویداد تایپوگرافیک",
+  "fa": "پوستر رویداد [نام رویداد] با سبک تایپوگرافی مدرن ایرانی، شکل‌های هندسی بزرگ [رنگ ۱] و [رنگ ۲] روی پس‌زمینه کرم، بافت چاپ ریسوگراف، فضای مشخص برای عنوان درشت و تاریخ، ترکیب‌بندی جسورانه و نامتقارن، نسبت ۲:۳",
+  "en": "Event poster for [event name] in modern Persian typographic style, large geometric shapes in [color 1] and [color 2] on a cream background, risograph print texture, clear space reserved for a bold title and date, daring asymmetric composition --ar 2:3",
+  "summary": "پس‌زمینه پوستر آماده که فقط متن فارسی را در فتوشاپ یا کانوا اضافه می‌کنید.",
+  "tools": [
+   "midjourney",
+   "dalle",
+   "leonardo"
+  ],
+  "tags": [
+   "پوستر",
+   "رویداد",
+   "تایپوگرافی",
+   "گرافیک"
+  ]
+ },
+ {
+  "slug": "retro-70s-tehran-vinyl-cover",
+  "category": "image",
+  "sub": "poster",
+  "title": "کاور وینیل تهران دهه پنجاه",
+  "fa": "کاور آلبوم موسیقی به سبک دهه ۱۹۷۰ تهران، [خواننده یا موضوع] با عینک دودی بزرگ و موی پرپشت، رنگ‌های نارنجی، قهوه‌ای و فیروزه‌ای محو، دانه فیلم و لکه‌های کهنگی، تایپوگرافی رترو، چاپ افست کم‌کیفیت دلنشین، قاب مربعی ۱:۱",
+  "en": "Music album cover in the style of 1970s Tehran, [singer or subject] with large tinted sunglasses and voluminous hair, faded orange, brown and turquoise palette, film grain and aging stains, retro typography, charming low-fi offset print look, square 1:1 format",
+  "summary": "کاور نوستالژیک برای پادکست، پلی‌لیست یا پوستر رویداد با حس رترو.",
+  "tools": [
+   "midjourney",
+   "dalle",
+   "leonardo"
+  ],
+  "tags": [
+   "رترو",
+   "کاور",
+   "موسیقی",
+   "دهه هفتاد"
+  ]
+ },
+ {
+  "slug": "persian-thriller-movie-poster",
+  "category": "image",
+  "sub": "poster",
+  "title": "پوستر فیلم سینمایی معمایی",
+  "fa": "پوستر فیلم سینمایی معمایی با عنوان [نام فیلم]، چهره‌ی [شخصیت اصلی] نیمه در سایه، خیابان خیس و شبانه‌ی [شهر] در پایین، پالت سبز‌آبی و نارنجی، دانه‌ی فیلم، فضای خالی بالا برای عنوان و پایین برای تیتراژ، حس تعلیق، نسبت ۲:۳",
+  "en": "Mystery thriller movie poster titled [film name], [main character]'s face half in shadow, a wet night street of [city] at the bottom, teal and orange palette, film grain, empty space at top for the title and at bottom for credits, suspenseful mood --ar 2:3",
+  "summary": "پوستر سینمایی حرفه‌ای با جای متن؛ برای فیلم کوتاه، تئاتر یا کاور پادکست داستانی.",
+  "tools": [
+   "midjourney",
+   "leonardo",
+   "flux"
+  ],
+  "tags": [
+   "پوستر",
+   "فیلم",
+   "سینمایی",
+   "تعلیق"
+  ]
+ },
+ {
+  "slug": "yalda-sale-discount-banner",
+  "category": "image",
+  "sub": "poster",
+  "title": "بنر حراج شب یلدا",
+  "fa": "بنر تبلیغاتی حراج شب یلدا برای [نوع فروشگاه]، انار و هندوانه‌ی قاچ‌شده و دیوان حافظ در گوشه، پس‌زمینه‌ی زرشکی تیره با نقش ستاره‌ی ریز، نور شمع گرم، فضای خالی بزرگ در وسط برای متن «[درصد] تخفیف»، سبک گرافیکی مدرن، نسبت ۱۶:۹",
+  "en": "Yalda Night sale banner for [store type], pomegranates, sliced watermelon and a Hafez poetry book in the corner, deep crimson background with tiny star pattern, warm candlelight, large empty space in the center for \"[percent] off\" text, modern graphic style --ar 16:9",
+  "summary": "بنر مناسبتی آماده برای سایت یا استوری؛ متن تخفیف را بعداً در ابزار طراحی اضافه کنید.",
+  "tools": [
+   "midjourney",
+   "dalle",
+   "gemini"
+  ],
+  "tags": [
+   "یلدا",
+   "حراج",
+   "بنر",
+   "تبلیغات"
+  ]
+ },
+ {
+  "slug": "traditional-music-concert-poster",
+  "category": "image",
+  "sub": "poster",
+  "title": "پوستر کنسرت موسیقی سنتی",
+  "fa": "پوستر کنسرت موسیقی سنتی ایرانی، تصویر‌سازی از [ساز مثل تار یا کمانچه] که از سیمش امواج طلایی و پرنده‌ها بیرون می‌آیند، پس‌زمینه‌ی لاجوردی با بافت کاغذ قدیمی، حاشیه‌ی تذهیب ظریف، جای خالی برای نام هنرمند و تاریخ، نسبت ۲:۳",
+  "en": "Persian traditional music concert poster, illustration of a [instrument like tar or kamancheh] with golden waves and birds flowing from its strings, lapis-blue background with old paper texture, delicate illumination border, blank areas for artist name and date --ar 2:3",
+  "summary": "پوستر هنری و فاخر برای کنسرت، شب شعر یا رویداد فرهنگی.",
+  "tools": [
+   "midjourney",
+   "leonardo",
+   "dalle"
+  ],
+  "tags": [
+   "پوستر",
+   "کنسرت",
+   "موسیقی سنتی",
+   "تذهیب"
+  ]
+ },
+ {
+  "slug": "online-course-instagram-ad",
+  "category": "image",
+  "sub": "poster",
+  "title": "تبلیغ اینستاگرامی دوره آموزشی",
+  "fa": "تصویر تبلیغ اینستاگرامی برای دوره‌ی آموزشی [موضوع دوره]، [مدرس با توصیف] با لبخند کنار لپ‌تاپ در سمت راست، آیکون‌های سه‌بعدی مرتبط با [موضوع] معلق در سمت چپ، پس‌زمینه‌ی گرادیان [رنگ برند]، فضای خالی برای عنوان، سبک مدرن و تمیز، نسبت ۴:۵",
+  "en": "Instagram ad visual for an online course on [course topic], [instructor description] smiling beside a laptop on the right, floating 3D icons related to [topic] on the left, [brand color] gradient background, empty space for the headline, clean modern style --ar 4:5",
+  "summary": "تصویر تبلیغ جذاب برای فروش دوره یا وبینار در اینستاگرام و تلگرام.",
+  "tools": [
+   "midjourney",
+   "dalle",
+   "gemini"
+  ],
+  "tags": [
+   "تبلیغات",
+   "اینستاگرام",
+   "دوره آموزشی",
+   "آموزش آنلاین"
+  ]
+ },
+ {
+  "slug": "bauhaus-minimal-geometric-poster",
+  "category": "image",
+  "sub": "poster",
+  "title": "پوستر مینیمال باوهاوس",
+  "fa": "پوستر مینیمال به سبک باوهاوس برای [موضوع یا رویداد]، دایره‌ی قرمز، مستطیل زرد و خطوط مشکی ضخیم در ترکیب‌بندی نامتقارن، پس‌زمینه‌ی کرم با بافت چاپ سیلک، رنگ‌های تخت بدون سایه، جای خالی برای یک کلمه‌ی بزرگ، نسبت ۳:۴",
+  "en": "Minimal Bauhaus-style poster for [topic or event], a red circle, yellow rectangle and thick black lines in an asymmetric composition, cream background with silkscreen print texture, flat colors without shadows, blank space for one large word --ar 3:4",
+  "summary": "پوستر هنری و ساده برای دکور دفتر، رویداد طراحی یا فروش پرینت دیواری.",
+  "tools": [
+   "midjourney",
+   "dalle",
+   "flux"
+  ],
+  "tags": [
+   "باوهاوس",
+   "مینیمال",
+   "پوستر",
+   "هندسی"
+  ]
+ },
+ {
+  "slug": "vintage-travel-poster-hormuz-island",
+  "category": "image",
+  "sub": "poster",
+  "title": "پوستر گردشگری رترو جزیره هرمز",
+  "fa": "پوستر گردشگری رترو به سبک دهه‌ی ۱۹۵۰ از [جزیره‌ی هرمز یا مقصد دیگر]، صخره‌های قرمز و اخرایی کنار دریای فیروزه‌ای، قایق کوچک بادبانی، رنگ‌های تخت محدود، بافت چاپ لیتوگرافی کهنه، جای عنوان بزرگ در بالا، نسبت ۲:۳",
+  "en": "Retro 1950s-style travel poster of [Hormuz Island or another destination], red and ochre cliffs beside a turquoise sea, a small sailing boat, limited flat colors, aged lithograph print texture, space for a large title at the top --ar 2:3",
+  "summary": "پوستر نوستالژیک برای آژانس مسافرتی، اقامتگاه بومگردی یا سوغاتی چاپی.",
+  "tools": [
+   "midjourney",
+   "dalle",
+   "leonardo"
+  ],
+  "tags": [
+   "گردشگری",
+   "رترو",
+   "هرمز",
+   "پوستر"
+  ]
+ },
+ {
+  "slug": "phone-wallpaper-geometric-girih",
+  "category": "image",
+  "sub": "wallpaper",
+  "title": "والپیپر موبایل گره‌چینی",
+  "fa": "والپیپر موبایل با الگوی هندسی گره‌چینی ایرانی، خطوط طلایی ظریف روی پس‌زمینه [رنگ تیره]، تکرار منظم ستاره‌های ۸ پر، نور ملایم از مرکز، بافت ماتِ لوکس، فضای ساده‌تر در بالا برای ساعت و نوتیفیکیشن، نسبت ۹:۱۹٫۵",
+  "en": "Phone wallpaper with Persian girih geometric pattern, fine gold lines on a [dark color] background, regular repeat of eight-pointed stars, soft glow from the center, luxurious matte texture, simpler area at the top for the clock and notifications --ar 9:19.5",
+  "summary": "والپیپر شیک و ایرانی که با ویجت‌های گوشی تداخل ندارد؛ مناسب هدیه دیجیتال یا فروش.",
+  "tools": [
+   "midjourney",
+   "dalle",
+   "leonardo"
+  ],
+  "tags": [
+   "والپیپر",
+   "گره‌چینی",
+   "هندسی",
+   "موبایل"
+  ]
+ },
+ {
+  "slug": "paper-cut-layered-art-mountains",
+  "category": "image",
+  "sub": "wallpaper",
+  "title": "هنر کاغذی لایه‌لایه",
+  "fa": "اثر هنری کاغذ‌بری لایه‌لایه از [منظره]، ۶ لایه کاغذ رنگی با عمق و سایه واقعی، گرادیان [رنگ تیره] در عقب تا [رنگ روشن] در جلو، خورشید دایره‌ای بین لایه‌ها، نور از بالا، سایه‌های نرم بین برش‌ها، عکس‌برداری از روبرو، نسبت ۳:۴",
+  "en": "Layered paper-cut artwork of [landscape], six layers of colored paper with real depth and shadows, gradient from [dark color] at the back to [light color] in front, a circular sun between the layers, overhead lighting, soft shadows between cuts, shot straight on --ar 3:4",
+  "summary": "تصویر هنری آرام و دکوراتیو؛ عالی برای تابلو، کارت تبریک یا پس‌زمینه برند.",
+  "tools": [
+   "midjourney",
+   "dalle",
+   "leonardo"
+  ],
+  "tags": [
+   "کاغذ‌بری",
+   "هنری",
+   "منظره",
+   "دکوراتیو"
+  ]
+ },
+ {
+  "slug": "abstract-gradient-mesh-desktop-wallpaper",
+  "category": "image",
+  "sub": "wallpaper",
+  "title": "والپیپر گرادیان انتزاعی دسکتاپ",
+  "fa": "والپیپر دسکتاپ ۴K با گرادیان مش انتزاعی و نرم از [رنگ ۱]، [رنگ ۲] و [رنگ ۳]، شکل‌های سیال و موج‌دار شبیه پارچه‌ی ابریشمی، دانه‌ی خیلی ریز، بدون هیچ شیء یا متن، فضای آرام در مرکز برای آیکون‌ها، نسبت ۱۶:۹",
+  "en": "4K desktop wallpaper with a soft abstract mesh gradient of [color 1], [color 2] and [color 3], fluid wavy shapes like silk fabric, very fine grain, no objects or text, calm center area for icons --ar 16:9",
+  "summary": "پس‌زمینه‌ی شیک و بی‌حواس‌پرتی برای دسکتاپ، اسلاید یا هدر سایت.",
+  "tools": [
+   "midjourney",
+   "flux",
+   "dalle"
+  ],
+  "tags": [
+   "والپیپر",
+   "گرادیان",
+   "دسکتاپ",
+   "انتزاعی"
+  ]
+ },
+ {
+  "slug": "amoled-black-neon-lines-wallpaper",
+  "category": "image",
+  "sub": "wallpaper",
+  "title": "والپیپر مشکی آمولد با خط نئون",
+  "fa": "والپیپر موبایل برای صفحه‌ی آمولد، پس‌زمینه‌ی کاملاً مشکی، چند خط نئونی [رنگ] باریک و منحنی که از گوشه‌ی پایین بالا می‌روند، درخشش ملایم دور خطوط، مینیمال و صرفه‌جو در باتری، بالای تصویر خالی برای ساعت، نسبت ۹:۱۹.۵",
+  "en": "Phone wallpaper for an AMOLED screen, pure black background, a few thin curved [color] neon lines rising from the bottom corner, soft glow around the lines, minimal and battery-friendly, empty top area for the clock --ar 9:19.5",
+  "summary": "والپیپر تاریک و مینیمال که روی گوشی‌های OLED زیبا و کم‌مصرف است.",
+  "tools": [
+   "midjourney",
+   "leonardo",
+   "flux"
+  ],
+  "tags": [
+   "والپیپر",
+   "موبایل",
+   "مشکی",
+   "نئون"
+  ]
+ },
+ {
+  "slug": "lofi-cozy-room-night-wallpaper",
+  "category": "image",
+  "sub": "wallpaper",
+  "title": "اتاق دنج لوفای شبانه",
+  "fa": "والپیپر به سبک انیمه‌ی لوفای از اتاق دنج شبانه، میز مطالعه با چراغ زرد، کتاب و استکان چای، باران روی پنجره و چراغ‌های شهر [نام شهر] در دوردست، گربه‌ی خواب روی صندلی، رنگ‌های بنفش و نارنجی گرم، نسبت ۱۶:۹",
+  "en": "Lo-fi anime style wallpaper of a cozy room at night, study desk with a yellow lamp, books and a glass of tea, rain on the window and the lights of [city name] far away, a cat sleeping on the chair, warm purple and orange tones --ar 16:9",
+  "summary": "پس‌زمینه‌ی آرامش‌بخش برای دسکتاپ، استریم یا کاور پلی‌لیست مطالعه.",
+  "tools": [
+   "midjourney",
+   "leonardo",
+   "dalle"
+  ],
+  "tags": [
+   "لوفای",
+   "انیمه",
+   "والپیپر",
+   "شبانه"
+  ]
+ },
+ {
+  "slug": "topographic-contour-minimal-wallpaper",
+  "category": "image",
+  "sub": "wallpaper",
+  "title": "والپیپر خطوط توپوگرافی",
+  "fa": "والپیپر مینیمال از خطوط تراز توپوگرافی [کوه دماوند یا منطقه‌ی دیگر]، خطوط نازک [رنگ روشن] روی پس‌زمینه‌ی [رنگ تیره]، تراکم بیشتر خطوط در یک سمت، بدون متن، وکتوری و تمیز، مناسب لپ‌تاپ و گوشی، نسبت ۱۶:۹",
+  "en": "Minimal wallpaper of topographic contour lines of [Mount Damavand or another region], thin [light color] lines on a [dark color] background, denser lines on one side, no text, clean vector look, works on laptop and phone --ar 16:9",
+  "summary": "طرح ساده و فنی برای علاقه‌مندان کوهنوردی یا پس‌زمینه‌ی ارائه‌های جدی.",
+  "tools": [
+   "midjourney",
+   "dalle",
+   "flux"
+  ],
+  "tags": [
+   "توپوگرافی",
+   "مینیمال",
+   "والپیپر",
+   "کوه"
+  ]
+ },
+ {
+  "slug": "virtual-meeting-background-office",
+  "category": "image",
+  "sub": "wallpaper",
+  "title": "پس‌زمینه مجازی جلسه آنلاین",
+  "fa": "پس‌زمینه‌ی مجازی برای جلسه‌ی آنلاین: دفتر کار مدرن و روشن با قفسه‌ی کتاب، گیاه سبز بزرگ و پنجره‌ی رو به [منظره]، کمی محو (عمق میدان کم)، رنگ‌های خنثی، مرکز قاب خلوت برای قرارگرفتن چهره، جای کوچک لوگو بالا راست، نسبت ۱۶:۹",
+  "en": "Virtual background for online meetings: bright modern office with a bookshelf, a large green plant and a window overlooking [view], slightly blurred (shallow depth of field), neutral tones, uncluttered center for the face, small logo spot at top right --ar 16:9",
+  "summary": "پس‌زمینه‌ی حرفه‌ای برای Google Meet و اسکای‌روم؛ ظاهر جلسه را مرتب و برندشده می‌کند.",
+  "tools": [
+   "dalle",
+   "gemini",
+   "flux"
+  ],
+  "tags": [
+   "پس‌زمینه مجازی",
+   "جلسه آنلاین",
+   "دفتر کار",
+   "دورکاری"
+  ]
+ },
+ {
+  "slug": "space-nebula-tablet-wallpaper",
+  "category": "image",
+  "sub": "wallpaper",
+  "title": "والپیپر سحابی فضایی",
+  "fa": "والپیپر فضایی از یک سحابی رنگارنگ با ابرهای گازی [رنگ ۱] و [رنگ ۲]، ستاره‌های درخشان پراکنده، یک سیاره‌ی کوچک با حلقه در گوشه، عمق زیاد و جزئیات ریز، سبک عکاسی نجومی واقع‌گرا، بدون متن، نسبت ۴:۳ برای تبلت",
+  "en": "Space wallpaper of a colorful nebula with [color 1] and [color 2] gas clouds, scattered bright stars, a small ringed planet in the corner, deep perspective and fine detail, realistic astrophotography style, no text --ar 4:3",
+  "summary": "پس‌زمینه‌ی چشم‌نواز برای تبلت و دسکتاپ یا تصویر شاخص مقاله‌ی نجوم.",
+  "tools": [
+   "midjourney",
+   "leonardo",
+   "flux"
+  ],
+  "tags": [
+   "فضا",
+   "سحابی",
+   "والپیپر",
+   "نجوم"
+  ]
+ },
+ {
+  "slug": "isfahan-architecture-golden-hour",
+  "category": "image",
+  "sub": "architecture",
+  "title": "معماری اصفهان در ساعت طلایی",
+  "fa": "عکس معماری از [بنای تاریخی اصفهان] با کاشی‌کاری فیروزه‌ای و لاجوردی، ساعت طلایی، آسمان نیمه‌ابری، تقارن کامل در قاب، لنز واید ۲۴ میلی‌متری، چند رهگذر کوچک برای مقیاس، جزئیات تیز، سبک عکاسی معماری مجله‌ای، نسبت ۳:۲",
+  "en": "Architectural photograph of [historic Isfahan monument] with turquoise and lapis tilework, golden hour, partly cloudy sky, perfectly symmetrical framing, 24mm wide lens, a few small passers-by for scale, crisp details, magazine-style architecture photography --ar 3:2",
+  "summary": "تصویری باشکوه و متقارن از بناهای تاریخی ایران؛ مناسب پوستر گردشگری یا بلاگ سفر.",
+  "tools": [
+   "midjourney",
+   "gemini",
+   "leonardo"
+  ],
+  "tags": [
+   "معماری",
+   "اصفهان",
+   "کاشی‌کاری",
+   "گردشگری"
+  ]
+ },
+ {
+  "slug": "interior-render-scandi-persian",
+  "category": "image",
+  "sub": "architecture",
+  "title": "دکوراسیون اسکاندیناوی‌ایرانی",
+  "fa": "رندر داخلی فوتورئال از نشیمن با سبک اسکاندیناوی و لمس ایرانی: مبل خاکستری ساده، فرش دستباف [رنگ]، سفال و مس روی قفسه چوب روشن، گیاهان بزرگ، نور روز از پنجره بلند، سایه‌های نرم، لنز واید، عکاسی مجله دکوراسیون، نسبت ۳:۲",
+  "en": "Photorealistic interior render of a living room blending Scandinavian style with Persian touches: simple grey sofa, [color] hand-woven rug, ceramics and copper on light-wood shelves, large plants, daylight through a tall window, soft shadows, wide lens, interior magazine style --ar 3:2",
+  "summary": "تصویر الهام‌بخش برای طراح داخلی، فروشگاه فرش یا پست دکوراسیون منزل.",
+  "tools": [
+   "midjourney",
+   "leonardo",
+   "gemini"
+  ],
+  "tags": [
+   "دکوراسیون",
+   "داخلی",
+   "فرش",
+   "رندر"
+  ]
+ },
+ {
+  "slug": "modern-villa-exterior-north-iran",
+  "category": "image",
+  "sub": "architecture",
+  "title": "ویلای مدرن در جنگل شمال",
+  "fa": "رندر بیرونی فوتورئال از ویلای مدرن دوطبقه با بتن نمایان، چوب گرم و شیشه‌های بلند در دامنه‌ی جنگلی [منطقه‌ی شمال ایران]، مه صبحگاهی، نور گرم داخل ویلا، استخر لبه‌بی‌نهایت رو به دره، لنز واید، سبک ArchDaily، نسبت ۱۶:۹",
+  "en": "Photorealistic exterior render of a modern two-story villa with exposed concrete, warm wood and tall glass on a forested slope in [northern Iran region], morning mist, warm interior lights, infinity pool facing the valley, wide lens, ArchDaily style --ar 16:9",
+  "summary": "تصویر الهام‌بخش برای معمار، انبوه‌ساز یا آگهی فروش ویلا.",
+  "tools": [
+   "midjourney",
+   "leonardo",
+   "flux"
+  ],
+  "tags": [
+   "معماری",
+   "ویلا",
+   "رندر",
+   "شمال"
+  ]
+ },
+ {
+  "slug": "minimal-kitchen-interior-render",
+  "category": "image",
+  "sub": "architecture",
+  "title": "آشپزخانه مینیمال",
+  "fa": "رندر داخلی از آشپزخانه‌ی مینیمال با کابینت‌های بدون دستگیره‌ی [رنگ]، صفحه‌ی سنگ مرمر سفید، جزیره‌ی وسط با سه چهارپایه‌ی چوبی، نور روز از پنجره‌ی کناری، چند گلدان سبزی تازه، خطوط تمیز، سبک عکاسی مجله‌ی دکوراسیون، نسبت ۴:۳",
+  "en": "Interior render of a minimal kitchen with handleless [color] cabinets, white marble countertop, a central island with three wooden stools, daylight from a side window, a few pots of fresh herbs, clean lines, interior magazine photography style --ar 4:3",
+  "summary": "ایده‌ی بصری برای بازسازی آشپزخانه یا نمونه‌کار کابینت‌ساز.",
+  "tools": [
+   "midjourney",
+   "flux",
+   "gemini"
+  ],
+  "tags": [
+   "آشپزخانه",
+   "دکوراسیون",
+   "رندر",
+   "مینیمال"
+  ]
+ },
+ {
+  "slug": "specialty-cafe-interior-concept",
+  "category": "image",
+  "sub": "architecture",
+  "title": "طراحی داخلی کافه",
+  "fa": "کانسپت طراحی داخلی کافه‌ی [سبک، مثلاً صنعتی گرم] با دیوار آجری، نورهای آویز برنجی، بار قهوه با رویه‌ی ترازو، نیمکت‌های چوبی، گیاهان آویزان، کاشی‌های الگودار کف با نقش ایرانی، مشتریان محو در حرکت، نور گرم عصر، نسبت ۳:۲",
+  "en": "Interior design concept for a [style, e.g. warm industrial] cafe with brick walls, brass pendant lights, a terrazzo coffee bar, wooden benches, hanging plants, patterned floor tiles with Persian motifs, motion-blurred customers, warm evening light --ar 3:2",
+  "summary": "برای ارائه‌ی ایده به کارفرما یا تصمیم درباره‌ی سبک کافه قبل از اجرا مفید است.",
+  "tools": [
+   "midjourney",
+   "leonardo",
+   "dalle"
+  ],
+  "tags": [
+   "کافه",
+   "طراحی داخلی",
+   "کانسپت",
+   "دکوراسیون"
+  ]
+ },
+ {
+  "slug": "yazd-windcatchers-aerial-dusk",
+  "category": "image",
+  "sub": "architecture",
+  "title": "بادگیرهای یزد هنگام غروب",
+  "fa": "عکس هوایی با پهپاد از بافت تاریخی یزد هنگام غروب، بادگیرهای بلند و گنبدهای خشتی، کوچه‌های باریک در سایه، آسمان صورتی و بنفش، چند چراغ گرم روشن، نمای زاویه‌دار ۴۵ درجه، جزئیات واضح بافت کاه‌گل، نسبت ۱۶:۹",
+  "en": "Drone aerial photo of Yazd's historic fabric at dusk, tall windcatchers and mud-brick domes, narrow alleys in shadow, pink and purple sky, a few warm lights on, 45-degree oblique view, crisp detail of the adobe texture --ar 16:9",
+  "summary": "تصویر شاخص برای مقاله‌ی معماری پایدار، تور گردشگری یا اقامتگاه سنتی.",
+  "tools": [
+   "midjourney",
+   "gemini",
+   "flux"
+  ],
+  "tags": [
+   "یزد",
+   "بادگیر",
+   "معماری",
+   "عکس هوایی"
+  ]
+ },
+ {
+  "slug": "architectural-sketch-to-render",
+  "category": "image",
+  "sub": "architecture",
+  "title": "تبدیل اسکیس معماری به رندر",
+  "fa": "بر اساس اسکیس پیوست‌شده، رندر فوتورئال از [نوع بنا] بساز: حجم و تناسبات را دقیقاً حفظ کن، متریال [آجر، بتن یا سنگ]، محوطه‌سازی با درختان بومی، آسمان آبی با ابرهای پراکنده، نور ظهر، آدم‌های کوچک برای مقیاس، نسبت ۳:۲",
+  "en": "Using the attached sketch, create a photorealistic render of [building type]: keep the massing and proportions exactly, [brick, concrete or stone] materials, landscaping with native trees, blue sky with scattered clouds, midday light, small people for scale --ar 3:2",
+  "summary": "اسکیس دستی را سریع به تصویر قابل ارائه تبدیل می‌کند؛ مناسب دانشجوی معماری و طراح.",
+  "tools": [
+   "gemini",
+   "dalle",
+   "flux"
+  ],
+  "tags": [
+   "اسکیس",
+   "رندر",
+   "معماری",
+   "تبدیل تصویر"
+  ]
+ },
+ {
+  "slug": "japandi-bedroom-interior-render",
+  "category": "image",
+  "sub": "architecture",
+  "title": "اتاق خواب ژاپندی",
+  "fa": "رندر اتاق خواب به سبک ژاپندی: تخت کوتاه چوبی، کتان‌های کرم و بژ، دیوار گچی بافت‌دار، پاراوان چوبی، یک گلدان شاخه‌ی خشک، نور غروب از پرده‌ی نازک، فضای خالی زیاد و آرام، رنگ‌های خاکی، نسبت ۴:۳",
+  "en": "Japandi-style bedroom render: low wooden bed, cream and beige linens, textured plaster wall, wooden screen divider, a vase with a dry branch, sunset light through a sheer curtain, lots of calm empty space, earthy tones --ar 4:3",
+  "summary": "ایده‌ی دکوراسیون آرام و ساده برای مشتری، پست بلاگ یا فروشگاه مبلمان.",
+  "tools": [
+   "midjourney",
+   "leonardo",
+   "gemini"
+  ],
+  "tags": [
+   "اتاق خواب",
+   "ژاپندی",
+   "دکوراسیون",
+   "رندر"
+  ]
+ },
+ {
+  "slug": "saffron-rice-food-photography",
+  "category": "image",
+  "sub": "food",
+  "title": "عکاسی غذای ایرانی",
+  "fa": "عکس غذای [نام غذا] در بشقاب سفالی لعاب‌دار، برنج زعفرانی با ته‌دیگ طلایی، زرشک و پسته روی آن، سفره‌ی ترمه در پس‌زمینه‌ی محو، نور طبیعی از کنار، زاویه ۴۵ درجه، بخار ظریف، رنگ‌های گرم و اشتهاآور، سبک مجله آشپزی، نسبت ۴:۵",
+  "en": "Food photo of [dish name] on a glazed ceramic plate, saffron rice with golden tahdig crust, barberries and pistachios on top, blurred termeh tablecloth in background, natural side light, 45-degree angle, delicate steam, warm appetizing colors, culinary magazine style --ar 4:5",
+  "summary": "عکس خوراکی اشتهاآور و حرفه‌ای برای منوی رستوران، اسنپ‌فود یا پیج آشپزی.",
+  "tools": [
+   "midjourney",
+   "dalle",
+   "gemini",
+   "leonardo"
+  ],
+  "tags": [
+   "غذا",
+   "عکاسی غذا",
+   "رستوران",
+   "ایرانی"
+  ]
+ },
+ {
+  "slug": "hyperrealistic-pomegranate-macro",
+  "category": "image",
+  "sub": "food",
+  "title": "ماکرو فوق‌واقعی انار",
+  "fa": "عکس ماکرو فوق‌واقع‌گرا از انار شکافته با دانه‌های یاقوتی براق و قطره‌های آب روی آن‌ها، پس‌زمینه مشکی مات، نور نقطه‌ای از کنار و بازتاب درون دانه‌ها، عمق میدان کم، بافت پوست و غشای سفید کاملاً واضح، نسبت ۱:۱",
+  "en": "Hyperrealistic macro photo of a split pomegranate with glossy ruby seeds and water droplets on them, matte black background, pinpoint side light with reflections inside the arils, shallow depth of field, skin texture and white membrane perfectly sharp --ar 1:1",
+  "summary": "تصویر چشم‌گیر برای برند آبمیوه، شب یلدا یا پس‌زمینه با حس ایرانی.",
+  "tools": [
+   "midjourney",
+   "leonardo",
+   "gemini"
+  ],
+  "tags": [
+   "ماکرو",
+   "انار",
+   "یلدا",
+   "فوتورئال"
+  ]
+ },
+ {
+  "slug": "koobideh-kebab-charcoal-grill",
+  "category": "image",
+  "sub": "food",
+  "title": "کباب کوبیده روی منقل",
+  "fa": "عکس غذای نزدیک از سیخ‌های کباب کوبیده روی منقل زغالی، دود و جرقه‌های ریز، گوجه‌ی کبابی و فلفل کنار سیخ‌ها، نور گرم آتش از پایین، پس‌زمینه‌ی تیره‌ی محو، چربی براق روی کباب، عمق میدان کم، سبک تبلیغ رستوران، نسبت ۴:۵",
+  "en": "Close-up food photo of koobideh kebab skewers on a charcoal grill, smoke and tiny sparks, grilled tomatoes and peppers beside them, warm firelight from below, dark blurred background, glistening juices on the meat, shallow depth of field, restaurant ad style --ar 4:5",
+  "summary": "عکس اشتهاآور برای منوی رستوران، تبلیغ کبابی یا پست اینستاگرام.",
+  "tools": [
+   "midjourney",
+   "leonardo",
+   "flux"
+  ],
+  "tags": [
+   "کباب",
+   "غذای ایرانی",
+   "عکاسی غذا",
+   "رستوران"
+  ]
+ },
+ {
+  "slug": "zoolbia-bamieh-ramadan-flatlay",
+  "category": "image",
+  "sub": "food",
+  "title": "زولبیا و بامیه ماه رمضان",
+  "fa": "عکس فلت‌لی از زولبیا و بامیه‌ی براق در سینی مسی، استکان‌های چای، خرما و شله‌زرد با دارچین، رومیزی ترمه، نور نرم عصر، چند دانه‌ی پسته‌ی خردشده، رنگ‌های طلایی و زرشکی، فضای خالی برای متن تبریک، نسبت ۱:۱",
+  "en": "Flat-lay of glossy zoolbia and bamieh on a copper tray, tea glasses, dates and sholeh-zard with cinnamon, termeh tablecloth, soft late-afternoon light, a few crushed pistachios, golden and crimson tones, empty space for greeting text --ar 1:1",
+  "summary": "تصویر مناسبتی برای پست رمضان، تبلیغ قنادی یا کارت تبریک افطار.",
+  "tools": [
+   "midjourney",
+   "dalle",
+   "gemini"
+  ],
+  "tags": [
+   "رمضان",
+   "شیرینی",
+   "فلت‌لی",
+   "قنادی"
+  ]
+ },
+ {
+  "slug": "cold-drink-splash-commercial",
+  "category": "image",
+  "sub": "food",
+  "title": "تبلیغ نوشیدنی خنک",
+  "fa": "عکس تبلیغاتی از لیوان [نوشیدنی، مثلاً شربت بهارنارنج یا موهیتو] با یخ‌های شفاف و قطره‌های عرق روی لیوان، پاشش مایع و برش‌های [میوه] معلق در هوا، پس‌زمینه‌ی [رنگ روشن] تخت، نور پشتی درخشان، تازه و تابستانی، نسبت ۴:۵",
+  "en": "Commercial shot of a glass of [drink, e.g. orange-blossom sharbat or mojito] with clear ice cubes and condensation droplets, liquid splash and [fruit] slices suspended in the air, flat [bright color] background, glowing backlight, fresh summery mood --ar 4:5",
+  "summary": "تصویر پرانرژی برای منوی کافه، آبمیوه‌فروشی یا کمپین تابستانی.",
+  "tools": [
+   "midjourney",
+   "flux",
+   "leonardo"
+  ],
+  "tags": [
+   "نوشیدنی",
+   "تبلیغات",
+   "تابستان",
+   "کافه"
+  ]
+ },
+ {
+  "slug": "restaurant-menu-dishes-top-view",
+  "category": "image",
+  "sub": "food",
+  "title": "عکس منوی رستوران از بالا",
+  "fa": "عکس از بالای میز رستوران با [تعداد] غذای [نوع آشپزی] در ظروف یک‌دست، چیدمان منظم شبکه‌ای، دست‌هایی که در حال برداشتن غذا هستند، رومیزی کتان [رنگ]، نور یکنواخت روز، رنگ‌های طبیعی و اشتهاآور، مناسب صفحه‌ی منو، نسبت ۳:۲",
+  "en": "Overhead shot of a restaurant table with [number] [cuisine type] dishes in matching plates, neat grid arrangement, hands reaching for food, [color] linen tablecloth, even daylight, natural appetizing colors, suitable for a menu page --ar 3:2",
+  "summary": "یک تصویر جمعی از غذاها برای منوی دیجیتال، سایت رستوران یا بنر سفارش آنلاین.",
+  "tools": [
+   "midjourney",
+   "dalle",
+   "gemini"
+  ],
+  "tags": [
+   "منو",
+   "رستوران",
+   "عکاسی غذا",
+   "از بالا"
+  ]
+ },
+ {
+  "slug": "moody-latte-art-coffee-shot",
+  "category": "image",
+  "sub": "food",
+  "title": "قهوه لاته‌آرت با حال‌وهوای مودی",
+  "fa": "عکس مودی از فنجان لاته با طرح لاته‌آرت [قلب یا برگ] روی میز چوبی تیره، دانه‌های قهوه‌ی پراکنده و یک کتاب باز، نور تکی از پنجره‌ی کناری، سایه‌های عمیق، بخار ملایم، رنگ‌های قهوه‌ای و کهربایی، زاویه‌ی ۴۵ درجه، نسبت ۴:۵",
+  "en": "Moody photo of a latte cup with [heart or rosetta] latte art on a dark wooden table, scattered coffee beans and an open book, single light from a side window, deep shadows, gentle steam, brown and amber tones, 45-degree angle --ar 4:5",
+  "summary": "عکس پرحس برای پیج کافه، کافه‌بوک یا پست انگیزشی صبحگاهی.",
+  "tools": [
+   "midjourney",
+   "leonardo",
+   "flux"
+  ],
+  "tags": [
+   "قهوه",
+   "کافه",
+   "مودی",
+   "عکاسی غذا"
+  ]
+ },
+ {
+  "slug": "ash-reshteh-rustic-table",
+  "category": "image",
+  "sub": "food",
+  "title": "آش رشته روی میز روستایی",
+  "fa": "عکس غذای خانگی از کاسه‌ی سفالی آش رشته با تزیین کشک، نعناع داغ و پیاز داغ طلایی، روی میز چوبی کهنه، ملاقه‌ی مسی و نان سنگک کنارش، بخار در هوای سرد، نور گرم پنجره، حس زمستان و خانه‌ی مادربزرگ، نسبت ۴:۵",
+  "en": "Homestyle food photo of a clay bowl of ash reshteh topped with kashk, mint oil and golden fried onions, on an old wooden table, a copper ladle and sangak bread beside it, steam in cold air, warm window light, winter grandma's-house feeling --ar 4:5",
+  "summary": "تصویر نوستالژیک غذای ایرانی برای بلاگ آشپزی، منو یا پست زمستانی.",
+  "tools": [
+   "midjourney",
+   "gemini",
+   "leonardo"
+  ],
+  "tags": [
+   "آش رشته",
+   "غذای ایرانی",
+   "خانگی",
+   "زمستان"
+  ]
+ },
+ {
+  "slug": "watercolor-caspian-forest",
+  "category": "image",
+  "sub": "nature",
+  "title": "آبرنگ جنگل‌های شمال",
+  "fa": "نقاشی آبرنگ از جنگل مه‌گرفته [نام منطقه] در شمال ایران، درختان بلند با تنه‌های تیره، مه نرم بین شاخه‌ها، یک کلبه چوبی کوچک با چراغ روشن، لکه‌های رنگ آزاد و لبه‌های خیس، پالت سبز و خاکستری، کاغذ بافت‌دار، سبک تصویرسازی کتاب",
+  "en": "Watercolor painting of a misty forest in [region name], northern Iran, tall trees with dark trunks, soft fog between branches, a small wooden cabin with a lit window, loose color washes and wet edges, green and grey palette, textured paper, book illustration style",
+  "summary": "تصویر آرام و هنری برای پوستر، کارت پستال یا طرح چاپ روی تی‌شرت.",
+  "tools": [
+   "midjourney",
+   "dalle",
+   "leonardo"
+  ],
+  "tags": [
+   "آبرنگ",
+   "جنگل",
+   "طبیعت",
+   "شمال",
+   "نقاشی"
+  ]
+ },
+ {
+  "slug": "desert-lut-dunes-aerial",
+  "category": "image",
+  "sub": "nature",
+  "title": "کویر لوت از آسمان",
+  "fa": "عکس هوایی از تپه‌های شنی کویر لوت هنگام طلوع، سایه‌های بلند و خطوط موج‌دار شن، یک شترسوار کوچک برای مقیاس، گرادیان نارنجی به بنفش در آسمان، وضوح فوق‌العاده، سبک عکاسی نشنال جئوگرافیک، نسبت ۱۶:۹",
+  "en": "Aerial photograph of the sand dunes of Lut Desert at sunrise, long shadows and rippling sand lines, a tiny camel rider for scale, orange-to-violet gradient sky, ultra-sharp detail, National Geographic photography style --ar 16:9",
+  "summary": "تصویر چشم‌نواز برای بنر سایت گردشگری، کاور کانال یا چاپ بزرگ.",
+  "tools": [
+   "midjourney",
+   "gemini",
+   "leonardo"
+  ],
+  "tags": [
+   "کویر",
+   "طبیعت",
+   "هوایی",
+   "گردشگری"
+  ]
+ },
+ {
+  "slug": "damavand-sunrise-landscape",
+  "category": "image",
+  "sub": "nature",
+  "title": "طلوع آفتاب بر قله دماوند",
+  "fa": "عکس منظره از قله‌ی برفی دماوند هنگام طلوع آفتاب، نور صورتی و نارنجی روی برف قله، دشت گل‌های شقایق در پیش‌زمینه، مه رقیق در دره، لنز واید با عمق میدان زیاد، آسمان صاف، رنگ‌های طبیعی و پرکنتراست، نسبت ۳:۲",
+  "en": "Landscape photo of snow-capped Mount Damavand at sunrise, pink and orange alpenglow on the summit, a field of red poppies in the foreground, thin mist in the valley, wide lens with deep focus, clear sky, natural high-contrast colors --ar 3:2",
+  "summary": "تصویر باشکوه طبیعت ایران برای تقویم، کاور گروه کوهنوردی یا پس‌زمینه.",
+  "tools": [
+   "midjourney",
+   "flux",
+   "leonardo"
+  ],
+  "tags": [
+   "دماوند",
+   "منظره",
+   "طلوع",
+   "کوه"
+  ]
+ },
+ {
+  "slug": "hormuz-island-rainbow-soil",
+  "category": "image",
+  "sub": "nature",
+  "title": "خاک‌های رنگی جزیره هرمز",
+  "fa": "عکس منظره از ساحل جزیره‌ی هرمز با خاک‌های رنگی قرمز، زرد و نقره‌ای، موج‌های فیروزه‌ای خلیج فارس، صخره‌های فرسایش‌یافته با الگوهای عجیب، نور طلایی عصر، یک گردشگر کوچک برای مقیاس، رنگ‌های اشباع اما طبیعی، نسبت ۱۶:۹",
+  "en": "Landscape photo of Hormuz Island's shore with red, yellow and silver rainbow soil, turquoise Persian Gulf waves, eroded rocks with strange patterns, golden late-afternoon light, a small tourist for scale, saturated yet natural colors --ar 16:9",
+  "summary": "تصویر چشم‌گیر برای معرفی گردشگری هرمزگان، تور جزیره یا بلاگ سفر.",
+  "tools": [
+   "midjourney",
+   "gemini",
+   "flux"
+  ],
+  "tags": [
+   "هرمز",
+   "خلیج فارس",
+   "منظره",
+   "گردشگری"
+  ]
+ },
+ {
+  "slug": "hara-mangrove-forest-qeshm",
+  "category": "image",
+  "sub": "nature",
+  "title": "جنگل حرا در قشم",
+  "fa": "عکس طبیعت از جنگل حرا در [قشم یا سیریک] هنگام مد، ریشه‌های هوایی درختان در آب آرام، قایق چوبی کوچک بین درختان، حواصیل سفید روی شاخه، انعکاس آسمان آبی در آب، نور صبح، رنگ‌های سبز و فیروزه‌ای، نسبت ۳:۲",
+  "en": "Nature photo of the Hara mangrove forest in [Qeshm or Sirik] at high tide, aerial roots in calm water, a small wooden boat between the trees, a white heron on a branch, blue sky reflected in the water, morning light, green and turquoise tones --ar 3:2",
+  "summary": "تصویر آرام از طبیعت جنوب برای محتوای محیط‌زیستی، بومگردی یا تبلیغ تور.",
+  "tools": [
+   "midjourney",
+   "leonardo",
+   "gemini"
+  ],
+  "tags": [
+   "حرا",
+   "قشم",
+   "طبیعت",
+   "محیط زیست"
+  ]
+ },
+ {
+  "slug": "milky-way-desert-night-sky",
+  "category": "image",
+  "sub": "nature",
+  "title": "کهکشان راه شیری بر فراز کویر",
+  "fa": "عکس نجومی از کهکشان راه شیری بر فراز [کویر مرنجاب یا مصر]، تپه‌های شنی با نور ملایم ماه در پیش‌زمینه، یک چادر کوچک با نور گرم، آسمان پرستاره با جزئیات ابرهای کهکشانی، نوردهی طولانی، نویز کم، نسبت ۱۶:۹",
+  "en": "Astrophotography of the Milky Way over [Maranjab or Mesr desert], sand dunes softly lit by the moon in the foreground, a small glowing tent, star-filled sky with detailed galactic core, long exposure, low noise --ar 16:9",
+  "summary": "تصویر رؤیایی برای تور کویرگردی، اقامتگاه بیابانی یا پس‌زمینه‌ی دسکتاپ.",
+  "tools": [
+   "midjourney",
+   "flux",
+   "leonardo"
+  ],
+  "tags": [
+   "کویر",
+   "راه شیری",
+   "شب",
+   "نجوم"
+  ]
+ },
+ {
+  "slug": "dew-wildflower-macro-morning",
+  "category": "image",
+  "sub": "nature",
+  "title": "ماکرو گل وحشی با شبنم",
+  "fa": "عکس ماکرو از [گل وحشی، مثلاً لاله‌ی واژگون] با قطره‌های شبنم صبحگاهی که در هر قطره انعکاس کوچک گل دیده می‌شود، پس‌زمینه‌ی کرمی سبز و محو، نور نرم طلوع از پشت، عمق میدان بسیار کم، رنگ‌های لطیف، نسبت ۴:۵",
+  "en": "Macro photo of [wildflower, e.g. crown imperial] covered in morning dew, each droplet reflecting a tiny image of the flower, creamy blurred green background, soft sunrise backlight, very shallow depth of field, delicate colors --ar 4:5",
+  "summary": "تصویر لطیف و دقیق از طبیعت برای پس‌زمینه، کارت تبریک یا محتوای گیاه‌شناسی.",
+  "tools": [
+   "midjourney",
+   "leonardo",
+   "flux"
+  ],
+  "tags": [
+   "ماکرو",
+   "گل",
+   "شبنم",
+   "طبیعت"
+  ]
+ },
+ {
+  "slug": "persian-leopard-wildlife-photo",
+  "category": "image",
+  "sub": "nature",
+  "title": "پلنگ ایرانی در حیات‌وحش",
+  "fa": "عکس حیات‌وحش از پلنگ ایرانی روی صخره‌ای در [منطقه‌ی حفاظت‌شده، مثلاً توران]، نگاه مستقیم به دوربین، خال‌های واضح روی پوست، نور گرم عصر از کنار، پس‌زمینه‌ی کوه‌های محو، لنز تله ۶۰۰ میلی‌متری، سبک عکاسی طبیعت حرفه‌ای، نسبت ۳:۲",
+  "en": "Wildlife photo of a Persian leopard on a rock in [protected area, e.g. Touran], looking straight at the camera, sharp rosette patterns on the fur, warm side light at dusk, blurred mountains behind, 600mm telephoto lens, professional nature photography style --ar 3:2",
+  "summary": "تصویر قدرتمند برای کمپین حفاظت از حیات‌وحش، پوستر یا محتوای آموزشی.",
+  "tools": [
+   "midjourney",
+   "leonardo",
+   "flux"
+  ],
+  "tags": [
+   "پلنگ ایرانی",
+   "حیات وحش",
+   "طبیعت",
+   "حفاظت"
+  ]
+ },
+ {
+  "slug": "tehran-cyberpunk-night-street",
+  "category": "image",
+  "sub": "fantasy",
+  "title": "تهران سایبرپانک شبانه",
+  "fa": "خیابان شبانه تهران در سال ۲۰۸۰ به سبک سایبرپانک، تابلوهای نئون با خط فارسی، باران و انعکاس روی آسفالت، برج میلاد در دور با هولوگرام، ماشین‌های پرنده، جمعیت با چترهای درخشان، نور آبی‌بنفش و نارنجی، سینمایی و فوق‌واقع‌گرا، نسبت ۱۶:۹",
+  "en": "Night street in Tehran in the year 2080, cyberpunk style, neon signs with Persian lettering, rain and reflections on asphalt, Milad Tower in the distance with holograms, flying cars, crowd with glowing umbrellas, blue-violet and orange lighting, cinematic hyperrealistic --ar 16:9",
+  "summary": "والپیپر یا کاور آینده‌نگرانه با هویت ایرانی؛ برای کانال تکنولوژی یا هنر دیجیتال.",
+  "tools": [
+   "midjourney",
+   "leonardo",
+   "dalle"
+  ],
+  "tags": [
+   "سایبرپانک",
+   "تهران",
+   "آینده",
+   "نئون",
+   "والپیپر"
+  ]
+ },
+ {
+  "slug": "fantasy-simorgh-mountain",
+  "category": "image",
+  "sub": "fantasy",
+  "title": "سیمرغ فانتزی بر فراز قاف",
+  "fa": "نقاشی فانتزی حماسی از سیمرغ با پرهای آتشین و دم بلند طاووسی، در حال فرود بر قله‌ی برفی کوه قاف، ابرهای طلایی هنگام سپیده‌دم، مقیاس عظیم با یک انسان کوچک بر صخره، نور دراماتیک، سبک کانسپت‌آرت دیجیتال، جزئیات فراوان، نسبت ۱۶:۹",
+  "en": "Epic fantasy painting of the Simorgh with fiery feathers and a long peacock-like tail, landing on the snowy peak of Mount Qaf, golden clouds at dawn, vast scale with a tiny human on a rock, dramatic lighting, digital concept-art style, highly detailed --ar 16:9",
+  "summary": "کاور کتاب، پوستر یا والپیپر با اساطیر ایرانی؛ جذاب برای مخاطب نوجوان و گیمر.",
+  "tools": [
+   "midjourney",
+   "leonardo",
+   "dalle"
+  ],
+  "tags": [
+   "فانتزی",
+   "سیمرغ",
+   "اساطیر",
+   "کانسپت‌آرت"
+  ]
+ },
+ {
+  "slug": "floating-island-castle-fantasy",
+  "category": "image",
+  "sub": "fantasy",
+  "title": "قلعه روی جزیره معلق",
+  "fa": "نقاشی دیجیتال فانتزی از قلعه‌ای با برج‌های فیروزه‌ای روی جزیره‌ای معلق در آسمان، آبشارهایی که از لبه‌ی جزیره به ابرها می‌ریزند، پل‌های طنابی به جزیره‌های کوچک‌تر، اژدهای کوچک در پرواز، نور طلایی غروب، سبک کانسپت‌آرت بازی، نسبت ۱۶:۹",
+  "en": "Fantasy digital painting of a castle with turquoise towers on a floating sky island, waterfalls pouring from its edges into the clouds, rope bridges to smaller islands, a small dragon in flight, golden sunset light, game concept art style --ar 16:9",
+  "summary": "کانسپت‌آرت رؤیایی برای بازی، کاور رمان فانتزی یا والپیپر.",
+  "tools": [
+   "midjourney",
+   "leonardo",
+   "dalle"
+  ],
+  "tags": [
+   "فانتزی",
+   "قلعه",
+   "کانسپت آرت",
+   "جزیره معلق"
+  ]
+ },
+ {
+  "slug": "rostam-shahnameh-epic-warrior",
+  "category": "image",
+  "sub": "fantasy",
+  "title": "رستم پهلوان شاهنامه",
+  "fa": "تصویر حماسی سینمایی از رستم با ببر بیان و کلاه‌خود دیوسر، سوار بر رخش در دشتی غبارآلود، نیزه در دست، ابرهای طوفانی و نور خورشید از لابه‌لای ابرها، جزئیات زره و پوست ببر، سبک نقاشی دیجیتال فوتورئال، نسبت ۲:۳",
+  "en": "Cinematic epic image of Rostam wearing the tiger-skin Babr-e Bayan and demon-head helmet, riding Rakhsh across a dusty plain, spear in hand, storm clouds with sunbeams breaking through, detailed armor and tiger pelt, photorealistic digital painting style --ar 2:3",
+  "summary": "تصویر قهرمانانه از اسطوره‌های ایرانی برای کتاب، بازی یا محتوای شاهنامه‌خوانی.",
+  "tools": [
+   "midjourney",
+   "leonardo",
+   "flux"
+  ],
+  "tags": [
+   "شاهنامه",
+   "رستم",
+   "حماسی",
+   "اسطوره"
+  ]
+ },
+ {
+  "slug": "sci-fi-space-station-interior",
+  "category": "image",
+  "sub": "fantasy",
+  "title": "داخل ایستگاه فضایی",
+  "fa": "کانسپت‌آرت علمی‌تخیلی از راهروی داخلی ایستگاه فضایی، دیوارهای سفید با پنل‌های نوری، پنجره‌ی بزرگ رو به زمین، [شخصیت با لباس فضانوردی] در حال حرکت، گیاهان در گلخانه‌ی شیشه‌ای، نور سرد آبی با نقطه‌های نارنجی، لنز واید، نسبت ۲۱:۹",
+  "en": "Sci-fi concept art of a space station corridor, white walls with light panels, a large window facing Earth, [character in a space suit] walking, plants in a glass greenhouse module, cool blue light with orange accents, wide lens --ar 21:9",
+  "summary": "تصویر سینمایی علمی‌تخیلی برای داستان، بازی یا کاور ویدیوی آموزشی فضا.",
+  "tools": [
+   "midjourney",
+   "leonardo",
+   "flux"
+  ],
+  "tags": [
+   "علمی تخیلی",
+   "فضا",
+   "کانسپت آرت",
+   "ایستگاه فضایی"
+  ]
+ },
+ {
+  "slug": "div-sepid-creature-design",
+  "category": "image",
+  "sub": "fantasy",
+  "title": "طراحی کاراکتر دیو سپید",
+  "fa": "طراحی کاراکتر دیو سپید از اسطوره‌های ایرانی: موجودی غول‌پیکر با پوست سفید سنگی، شاخ‌های پیچ‌دار، چشم‌های سرخ درخشان، زنجیرهای شکسته روی بازو، ایستاده در غاری مه‌آلود در مازندران، نمای تمام‌قد، سبک کانسپت‌آرت تاریک، نسبت ۲:۳",
+  "en": "Character design of Div-e Sepid from Persian mythology: a giant with stone-white skin, twisted horns, glowing red eyes, broken chains on its arms, standing in a misty cave in Mazandaran, full-body view, dark fantasy concept art style --ar 2:3",
+  "summary": "طراحی موجود اسطوره‌ای ایرانی برای بازی، کمیک یا تصویرسازی کتاب.",
+  "tools": [
+   "midjourney",
+   "leonardo",
+   "dalle"
+  ],
+  "tags": [
+   "دیو سپید",
+   "اسطوره",
+   "طراحی کاراکتر",
+   "فانتزی تاریک"
+  ]
+ },
+ {
+  "slug": "bioluminescent-underwater-city",
+  "category": "image",
+  "sub": "fantasy",
+  "title": "شهر زیر آب درخشان",
+  "fa": "نقاشی دیجیتال از شهری زیر آب با گنبدهای شیشه‌ای و معماری الهام‌گرفته از [سبک، مثلاً ایرانی]، مرجان‌ها و عروس‌های دریایی درخشان آبی و بنفش، پرتوهای نور از سطح آب، ماهی‌های بزرگ در دوردست، حس رازآلود و آرام، نسبت ۱۶:۹",
+  "en": "Digital painting of an underwater city with glass domes and architecture inspired by [style, e.g. Persian], glowing blue and purple corals and jellyfish, light rays from the surface, large fish in the distance, mysterious and calm mood --ar 16:9",
+  "summary": "تصویر خیال‌انگیز برای داستان علمی‌تخیلی، والپیپر یا محیط بازی.",
+  "tools": [
+   "midjourney",
+   "leonardo",
+   "flux"
+  ],
+  "tags": [
+   "زیر آب",
+   "فانتزی",
+   "شهر",
+   "درخشان"
+  ]
+ },
+ {
+  "slug": "mecha-robot-concept-art",
+  "category": "image",
+  "sub": "fantasy",
+  "title": "کانسپت ربات غول‌پیکر",
+  "fa": "کانسپت‌آرت ربات غول‌پیکر (مکا) با بدنه‌ی زره‌دار [رنگ] و خراش‌های جنگ، ایستاده در شهر ویران‌شده‌ی [نام شهر] زیر باران، چراغ‌های قرمز چشم، خلبان کوچک کنار پای ربات برای مقیاس، نمای از پایین، سبک کانسپت‌آرت انیمه‌ای واقع‌گرا، نسبت ۲:۳",
+  "en": "Concept art of a giant mecha robot with [color] armored plating and battle scratches, standing in the ruined city of [city name] in the rain, red eye lights, a small pilot by its foot for scale, low-angle view, realistic anime concept art style --ar 2:3",
+  "summary": "تصویر پرهیجان برای پوستر بازی، کاور داستان یا الهام طراحی کاراکتر.",
+  "tools": [
+   "midjourney",
+   "leonardo",
+   "dalle"
+  ],
+  "tags": [
+   "ربات",
+   "مکا",
+   "کانسپت آرت",
+   "علمی تخیلی"
+  ]
+ },
+ {
+  "slug": "isometric-persian-bazaar",
+  "category": "image",
+  "sub": "illustration",
+  "title": "بازار ایرانی ایزومتریک",
+  "fa": "تصویر ایزومتریک سه‌بعدی از یک بازار سنتی ایرانی کوچک، سقف‌های گنبدی با نورگیر، حجره‌های فرش و ادویه و مس، آدم‌های کوچک در حال خرید، رنگ‌های گرم خاکی با لهجه فیروزه‌ای، پس‌زمینه ساده روشن، سبک رندر تمیز و بازی‌گونه",
+  "en": "3D isometric illustration of a small traditional Persian bazaar, vaulted roofs with skylights, stalls selling carpets, spices and copperware, tiny people shopping, warm earthy palette with turquoise accents, plain light background, clean playful render style",
+  "summary": "تصویر ایزومتریک جذاب برای صفحه‌ی اصلی سایت، اینفوگرافیک یا بازی موبایل.",
+  "tools": [
+   "midjourney",
+   "dalle",
+   "leonardo"
+  ],
+  "tags": [
+   "ایزومتریک",
+   "بازار",
+   "سه‌بعدی",
+   "تصویرسازی"
+  ]
+ },
+ {
+  "slug": "3d-mascot-cute-cat-app",
+  "category": "image",
+  "sub": "illustration",
+  "title": "ماسکوت سه‌بعدی اپلیکیشن",
+  "fa": "کاراکتر ماسکوت سه‌بعدی بامزه [نوع حیوان] برای اپلیکیشن [حوزه]، چشم‌های بزرگ براق، بدن نرم و گرد، رنگ اصلی [رنگ برند]، ایستاده با حالت دوستانه و دست تکان‌دادن، نورپردازی استودیویی نرم، پس‌زمینه سفید ساده، رندر به سبک پیکسار، کیفیت بالا",
+  "en": "Cute 3D mascot character, a [animal type] for a [industry] app, big glossy eyes, soft rounded body, primary color [brand color], standing in a friendly waving pose, soft studio lighting, plain white background, Pixar-style render, high quality",
+  "summary": "ماسکوت دوست‌داشتنی برای آنبوردینگ اپ، استیکر یا صفحه خالی؛ قابل تکرار با همان کاراکتر.",
+  "tools": [
+   "midjourney",
+   "dalle",
+   "leonardo"
+  ],
+  "tags": [
+   "ماسکوت",
+   "سه‌بعدی",
+   "اپلیکیشن",
+   "کاراکتر"
+  ]
+ },
+ {
+  "slug": "minimal-app-icon-set-glass",
+  "category": "image",
+  "sub": "illustration",
+  "title": "ست آیکون شیشه‌ای مینیمال",
+  "fa": "ست ۹ آیکون اپلیکیشن برای [حوزه] با سبک شیشه‌مات (گلس‌مورفیسم)، شکل‌های ساده و هندسی، گرادیان نرم [رنگ ۱] به [رنگ ۲]، لبه‌های گرد و برجستگی ملایم، چیدمان شبکه ۳×۳ روی پس‌زمینه خنثی، سبک یکدست، رزولوشن بالا",
+  "en": "Set of 9 app icons for [industry] in frosted-glass (glassmorphism) style, simple geometric shapes, soft gradient from [color 1] to [color 2], rounded corners and subtle depth, arranged in a 3x3 grid on a neutral background, consistent style, high resolution",
+  "summary": "ست آیکون یکدست برای رابط کاربری یا لندینگ؛ بعداً تک‌تک جدا می‌شوند.",
+  "tools": [
+   "midjourney",
+   "dalle"
+  ],
+  "tags": [
+   "آیکون",
+   "رابط کاربری",
+   "گلس‌مورفیسم",
+   "ست"
+  ]
+ },
+ {
+  "slug": "kids-book-illustration-persian-tale",
+  "category": "image",
+  "sub": "illustration",
+  "title": "تصویرسازی قصه کودک",
+  "fa": "تصویرسازی کتاب کودک از [شخصیت قصه] در روستای ایرانی با خانه‌های خشتی و بادگیر، سبک گواش دستی با بافت کاغذ، شخصیت‌های گرد و مهربان با چشم‌های درشت، رنگ‌های شاد اما ملایم، نور بعدازظهر، ترکیب‌بندی ساده برای صفحه دو رو",
+  "en": "Children's book illustration of [story character] in an Iranian village with adobe houses and windcatchers, hand-painted gouache style with paper texture, round friendly characters with big eyes, cheerful yet soft colors, afternoon light, simple composition for a two-page spread",
+  "summary": "صفحه‌ی کتاب داستان یکدست و دلنشین؛ برای ناشر، معلم یا پروژه داستان شخصی.",
+  "tools": [
+   "midjourney",
+   "dalle",
+   "leonardo"
+  ],
+  "tags": [
+   "کودک",
+   "تصویرسازی",
+   "کتاب",
+   "قصه"
+  ]
+ },
+ {
+  "slug": "flat-vector-illustration-remote-work",
+  "category": "image",
+  "sub": "illustration",
+  "title": "تصویرسازی فلت کار از خانه",
+  "fa": "تصویرسازی وکتوری فلت از [شخص] در حال کار با لپ‌تاپ کنار پنجره با گلدان و گربه، شکل‌های ساده بدون خط دور، پالت محدود [رنگ ۱] و [رنگ ۲] و کرم، بافت دانه‌دار ملایم، سبک تصویرسازی استارتاپی مدرن، پس‌زمینه ساده، نسبت ۳:۲",
+  "en": "Flat vector illustration of [person] working on a laptop by a window with a plant and a cat, simple shapes without outlines, limited palette of [color 1], [color 2] and cream, subtle grain texture, modern startup illustration style, plain background --ar 3:2",
+  "summary": "تصویر فلت تمیز برای لندینگ، بلاگ یا اسلاید؛ به‌راحتی با رنگ برند هماهنگ می‌شود.",
+  "tools": [
+   "midjourney",
+   "dalle"
+  ],
+  "tags": [
+   "فلت",
+   "وکتور",
+   "استارتاپ",
+   "تصویرسازی"
+  ]
+ },
+ {
+  "slug": "four-panel-comic-strip",
+  "category": "image",
+  "sub": "illustration",
+  "title": "کمیک استریپ چهارقابی",
+  "fa": "کمیک استریپ چهار قاب افقی درباره‌ی [موقعیت طنز، مثلاً اولین روز کار از خانه]، شخصیت ثابت [توصیف] در همه‌ی قاب‌ها، خطوط مشکی تمیز، رنگ‌آمیزی تخت با پالت محدود، حالت‌های چهره‌ی اغراق‌شده، بالن‌های گفت‌وگوی خالی برای متن فارسی، نسبت ۴:۱",
+  "en": "Four-panel horizontal comic strip about [funny situation, e.g. first day working from home], consistent character [description] across all panels, clean black linework, flat coloring with a limited palette, exaggerated expressions, empty speech bubbles for text --ar 4:1",
+  "summary": "کمیک کوتاه برای پست طنز، محتوای آموزشی یا روایت برند؛ متن را بعداً اضافه کنید.",
+  "tools": [
+   "dalle",
+   "gemini",
+   "midjourney"
+  ],
+  "tags": [
+   "کمیک",
+   "طنز",
+   "تصویرسازی",
+   "کارتون"
+  ]
+ },
+ {
+  "slug": "kids-coloring-page-line-art",
+  "category": "image",
+  "sub": "illustration",
+  "title": "صفحه رنگ‌آمیزی کودک",
+  "fa": "صفحه‌ی رنگ‌آمیزی برای کودک [سن] ساله از [موضوع، مثلاً حیوانات جنگل]، فقط خطوط مشکی ضخیم و بسته روی پس‌زمینه‌ی سفید، بدون سایه و بدون رنگ، شکل‌های بزرگ و ساده، جزئیات کم، قابل چاپ روی A4، نسبت ۳:۴",
+  "en": "Coloring page for a [age]-year-old child featuring [topic, e.g. forest animals], only thick closed black outlines on a white background, no shading and no color, large simple shapes, low detail, printable on A4 --ar 3:4",
+  "summary": "صفحه‌ی آماده‌ی چاپ برای مهدکودک، کتاب رنگ‌آمیزی یا سرگرمی در خانه.",
+  "tools": [
+   "dalle",
+   "gemini",
+   "leonardo"
+  ],
+  "tags": [
+   "رنگ آمیزی",
+   "کودک",
+   "لاین آرت",
+   "چاپی"
+  ]
+ },
+ {
+  "slug": "chibi-sticker-pack-character",
+  "category": "image",
+  "sub": "illustration",
+  "title": "پک استیکر کاراکتر چیبی",
+  "fa": "شیت ۹ استیکر از کاراکتر چیبی [توصیف کاراکتر] با حالت‌های مختلف: خوشحال، عصبانی، خسته، عاشق، متعجب، گریان، تشکر، خداحافظ و چای‌به‌دست، دورخط سفید ضخیم، رنگ‌های شاد، پس‌زمینه‌ی ساده، سبک کاوایی، نسبت ۱:۱",
+  "en": "Sheet of 9 stickers of a chibi character [character description] with different moods: happy, angry, tired, in love, surprised, crying, thank you, goodbye and holding tea, thick white outline, cheerful colors, plain background, kawaii style --ar 1:1",
+  "summary": "پک استیکر برای تلگرام، واتساپ یا چاپ برچسب فروشگاهی می‌سازد.",
+  "tools": [
+   "midjourney",
+   "dalle",
+   "leonardo"
+  ],
+  "tags": [
+   "استیکر",
+   "چیبی",
+   "کاوایی",
+   "کاراکتر"
+  ]
+ },
+ {
+  "slug": "nowruz-haft-sin-flatlay",
+  "category": "image",
+  "sub": "iranian",
+  "title": "هفت‌سین از بالا",
+  "fa": "عکس فلت‌لی (از بالا) از سفره هفت‌سین مدرن روی پارچه کتان [رنگ]، سبزه، سنبل، تنگ ماهی، آینه و تخم‌مرغ‌های نقاشی‌شده با چیدمان متقارن، نور روز نرم از پنجره، رنگ‌های پاستلی، فضای خالی برای متن در بالا، نسبت ۴:۵",
+  "en": "Top-down flat-lay of a modern Haft-Sin table on [color] linen cloth, wheatgrass, hyacinth, goldfish bowl, mirror and hand-painted eggs in symmetrical arrangement, soft daylight from a window, pastel palette, negative space at top for text --ar 4:5",
+  "summary": "تصویر تبریک نوروزی تمیز با جای متن؛ برای پست، استوری یا کارت تبریک شرکتی.",
+  "tools": [
+   "midjourney",
+   "dalle",
+   "gemini"
+  ],
+  "tags": [
+   "نوروز",
+   "هفت‌سین",
+   "فلت‌لی",
+   "تبریک"
+  ]
+ },
+ {
+  "slug": "persian-miniature-modern-fusion",
+  "category": "image",
+  "sub": "iranian",
+  "title": "نگارگری ایرانی مدرن",
+  "fa": "تصویر [موضوع] به سبک نگارگری ایرانی مکتب اصفهان، ترکیب‌بندی مسطح بدون پرسپکتیو، تذهیب طلایی حاشیه، رنگ‌های لاجوردی و زرشکی، چهره‌ها با خط‌های ظریف، ابرهای پیچان، اما با عنصر مدرن [مثلاً گوشی موبایل]، کیفیت چاپ هنری",
+  "en": "[subject] painted as a Persian Isfahan-school miniature, flat composition without perspective, gold-illuminated border, lapis blue and crimson palette, faces drawn with fine delicate lines, swirling stylized clouds, plus a modern element [e.g. a smartphone], fine-art print quality",
+  "summary": "ترکیب طنزآمیز یا هنری نگارگری سنتی با دنیای امروز؛ برای پوستر، کاور یا پست وایرال.",
+  "tools": [
+   "midjourney",
+   "dalle",
+   "leonardo"
+  ],
+  "tags": [
+   "نگارگری",
+   "مینیاتور",
+   "هنر ایرانی",
+   "مدرن"
+  ]
+ },
+ {
+  "slug": "persepolis-reconstruction-photoreal",
+  "category": "image",
+  "sub": "iranian",
+  "title": "بازسازی تخت جمشید",
+  "fa": "بازسازی فوتورئالیستی تخت جمشید در دوران شکوه، کاخ آپادانا با ستون‌های کامل و رنگ‌های اصیل، سربازان جاویدان در صف، پرچم‌ها در باد، نور صبحگاهی، گردوغبار ظریف در هوا، دید سه‌رخ از بالای پلکان، سبک فیلم تاریخی، نسبت ۱۶:۹",
+  "en": "Photorealistic reconstruction of Persepolis at its height, the Apadana palace with intact columns and original colors, Immortal guards in formation, banners in the wind, morning light, fine dust in the air, three-quarter view from the top of the stairs, historical film look --ar 16:9",
+  "summary": "تصویر آموزشی و حماسی برای مستند، کلاس تاریخ یا پوستر موزه.",
+  "tools": [
+   "midjourney",
+   "leonardo",
+   "gemini"
+  ],
+  "tags": [
+   "تاریخ",
+   "تخت جمشید",
+   "فوتورئال",
+   "هخامنشی"
+  ]
+ },
+ {
+  "slug": "qajar-era-portrait-painting",
+  "category": "image",
+  "sub": "iranian",
+  "title": "نقاشی پرتره سبک قاجار",
+  "fa": "نقاشی رنگ‌روغن به سبک دوره‌ی قاجار از [شخص یا موضوع]، چهره‌ی تمام‌رخ با ابروهای پیوسته و چشم‌های درشت، لباس زربفت با جزئیات مروارید، پرده‌ی سرخ و پنجره‌ی قوسی در پس‌زمینه، رنگ‌های گرم و کهنه، ترک‌های ریز بوم قدیمی، نسبت ۲:۳",
+  "en": "Oil painting in the Qajar-era style of [person or subject], frontal face with joined eyebrows and large eyes, brocade clothing with pearl details, red curtain and arched window behind, warm aged colors, fine craquelure of an old canvas --ar 2:3",
+  "summary": "تصویر نوستالژیک ایرانی برای کاور، هدیه‌ی شخصی‌سازی‌شده یا محتوای تاریخی.",
+  "tools": [
+   "midjourney",
+   "leonardo",
+   "dalle"
+  ],
+  "tags": [
+   "قاجار",
+   "نقاشی",
+   "پرتره",
+   "سنتی"
+  ]
+ },
+ {
+  "slug": "persian-carpet-medallion-pattern",
+  "category": "image",
+  "sub": "iranian",
+  "title": "طرح فرش ترنج‌دار ایرانی",
+  "fa": "طرح فرش ایرانی از نمای کاملاً روبه‌رو و تخت، ترنج مرکزی با لچک‌های چهارگوشه، نقش‌های اسلیمی و ختایی، حاشیه‌ی چندلایه، پالت [سرمه‌ای، لاکی و کرم]، تقارن کامل، بافت ریز پرزهای پشم، بدون پرسپکتیو، سبک فرش [کاشان یا تبریز]، نسبت ۲:۳",
+  "en": "Persian carpet design in a perfectly flat top-down view, central medallion with four corner pieces, arabesque and khatai floral motifs, multi-layered border, [navy, crimson and cream] palette, perfect symmetry, fine wool pile texture, no perspective, [Kashan or Tabriz] style --ar 2:3",
+  "summary": "الگوی فرش برای الهام طراحی، پس‌زمینه‌ی برند ایرانی یا چاپ روی پارچه و کاشی.",
+  "tools": [
+   "midjourney",
+   "dalle",
+   "flux"
+  ],
+  "tags": [
+   "فرش",
+   "ترنج",
+   "اسلیمی",
+   "الگو"
+  ]
+ },
+ {
+  "slug": "yalda-night-family-gathering-scene",
+  "category": "image",
+  "sub": "iranian",
+  "title": "دورهمی شب یلدا",
+  "fa": "صحنه‌ی گرم شب یلدا در خانه‌ای ایرانی: خانواده دور کرسی با لحاف ترمه، انار دون‌شده، هندوانه، آجیل و دیوان حافظ، پدربزرگ در حال فال‌گرفتن، نور گرم چراغ و شمع، پنجره با برف بیرون، سبک عکاسی سینمایی، نسبت ۱۶:۹",
+  "en": "Warm Yalda Night scene in an Iranian home: family around a korsi with a termeh quilt, pomegranate seeds, watermelon, nuts and a Hafez book, grandfather reading a fortune, warm lamp and candlelight, snow outside the window, cinematic photography style --ar 16:9",
+  "summary": "تصویر احساسی برای تبریک یلدا، تبلیغ مناسبتی یا کاور محتوای فرهنگی.",
+  "tools": [
+   "midjourney",
+   "gemini",
+   "leonardo"
+  ],
+  "tags": [
+   "یلدا",
+   "کرسی",
+   "خانواده",
+   "سنت ایرانی"
+  ]
+ },
+ {
+  "slug": "eram-garden-shiraz-spring",
+  "category": "image",
+  "sub": "iranian",
+  "title": "باغ ارم شیراز در بهار",
+  "fa": "عکس بهاری از باغ ارم شیراز، کوشک قاجاری با کاشی‌های گل‌وبوته انعکاس‌یافته در حوض طولانی، ردیف سروهای بلند، گل‌های رز و بهارنارنج، نور نرم صبح، رنگ‌های زنده‌ی بهاری، تقارن مرکزی، لنز واید، نسبت ۳:۲",
+  "en": "Spring photo of Eram Garden in Shiraz, the Qajar pavilion with floral tiles reflected in a long pool, rows of tall cypress trees, roses and orange blossoms, soft morning light, vivid spring colors, central symmetry, wide lens --ar 3:2",
+  "summary": "تصویر کلاسیک باغ ایرانی برای گردشگری شیراز، کارت پستال یا تقویم.",
+  "tools": [
+   "midjourney",
+   "flux",
+   "gemini"
+  ],
+  "tags": [
+   "باغ ایرانی",
+   "شیراز",
+   "بهار",
+   "معماری سنتی"
+  ]
+ },
+ {
+  "slug": "coffeehouse-painting-style-scene",
+  "category": "image",
+  "sub": "iranian",
+  "title": "نقاشی قهوه‌خانه‌ای",
+  "fa": "تصویر [صحنه یا داستان، مثلاً نبرد رستم و سهراب] به سبک نقاشی قهوه‌خانه‌ای ایرانی، رنگ‌روغن روی بوم با رنگ‌های تند و تخت، چهره‌های بیانگر، چند صحنه‌ی روایی در یک قاب، اسب‌ها و پرچم‌ها، حاشیه‌ی ساده، بافت بوم کهنه، نسبت ۳:۲",
+  "en": "Image of [scene or story, e.g. the battle of Rostam and Sohrab] in Persian coffeehouse painting style, oil on canvas with bold flat colors, expressive faces, several narrative scenes in one frame, horses and banners, simple border, aged canvas texture --ar 3:2",
+  "summary": "سبک بومی و کمیاب نقاشی ایرانی برای پوستر فرهنگی، کتاب یا دکور کافه‌ی سنتی.",
+  "tools": [
+   "midjourney",
+   "leonardo",
+   "dalle"
+  ],
+  "tags": [
+   "نقاشی قهوه‌خانه‌ای",
+   "سنتی",
+   "روایی",
+   "شاهنامه"
+  ]
+ }
+]

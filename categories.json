@@ -1,0 +1,134 @@
+{
+  "version": 1,
+  "categories": [
+    { "key": "image", "fa": "ساخت تصویر", "en": "Image generation", "icon": "image", "desc_fa": "پرامپت برای Midjourney، DALL·E، Gemini، Leonardo و Flux.", "subs": [
+      { "key": "portrait", "fa": "پرتره و چهره", "en": "Portraits" },
+      { "key": "product", "fa": "عکس محصول", "en": "Product photos" },
+      { "key": "poster", "fa": "پوستر و تبلیغ", "en": "Posters & ads" },
+      { "key": "wallpaper", "fa": "والپیپر و پس‌زمینه", "en": "Wallpapers" },
+      { "key": "architecture", "fa": "معماری و دکوراسیون", "en": "Architecture & interiors" },
+      { "key": "food", "fa": "غذا و نوشیدنی", "en": "Food & drinks" },
+      { "key": "nature", "fa": "طبیعت و منظره", "en": "Nature & landscapes" },
+      { "key": "fantasy", "fa": "فانتزی و علمی‌تخیلی", "en": "Fantasy & sci-fi" },
+      { "key": "illustration", "fa": "تصویرسازی و کارتون", "en": "Illustration & cartoon" },
+      { "key": "iranian", "fa": "ایرانی و سنتی", "en": "Persian & traditional" }
+    ]},
+    { "key": "logo", "fa": "لوگو و برند", "en": "Logo & branding", "icon": "logo", "desc_fa": "ایده‌ی لوگو، هویت بصری، چاپ و بسته‌بندی.", "subs": [
+      { "key": "concept", "fa": "ایده‌ی لوگو", "en": "Logo concepts" },
+      { "key": "identity", "fa": "رنگ و هویت بصری", "en": "Colors & identity" },
+      { "key": "print", "fa": "کارت ویزیت و چاپ", "en": "Business cards & print" },
+      { "key": "packaging", "fa": "بسته‌بندی", "en": "Packaging" },
+      { "key": "mascot", "fa": "مسکات و کاراکتر", "en": "Mascots & characters" },
+      { "key": "type", "fa": "خوشنویسی و تایپوگرافی", "en": "Calligraphy & type" },
+      { "key": "social-kit", "fa": "هویت شبکه‌های اجتماعی", "en": "Social media kit" }
+    ]},
+    { "key": "video", "fa": "ویدیو و کلیپ", "en": "Video & clips", "icon": "video", "desc_fa": "پرامپت برای Veo، Sora، Runway، Kling و Pika.", "subs": [
+      { "key": "reels", "fa": "ریلز و شورتس", "en": "Reels & shorts" },
+      { "key": "product", "fa": "معرفی محصول", "en": "Product videos" },
+      { "key": "cinematic", "fa": "سینمایی و هوایی", "en": "Cinematic & drone" },
+      { "key": "motion", "fa": "لوگوموشن و متحرک‌سازی", "en": "Logo & motion graphics" },
+      { "key": "explainer", "fa": "آموزشی و توضیحی", "en": "Explainers" },
+      { "key": "character", "fa": "کاراکتر و انیمیشن", "en": "Characters & animation" },
+      { "key": "ad", "fa": "تبلیغ و UGC", "en": "Ads & UGC" }
+    ]},
+    { "key": "social", "fa": "کپشن و شبکه‌ها", "en": "Social media", "icon": "social", "desc_fa": "اینستاگرام، تلگرام، لینکدین، هشتگ و تقویم محتوا.", "subs": [
+      { "key": "instagram", "fa": "اینستاگرام", "en": "Instagram" },
+      { "key": "telegram", "fa": "تلگرام و پیام‌رسان‌ها", "en": "Telegram & messengers" },
+      { "key": "linkedin", "fa": "لینکدین", "en": "LinkedIn" },
+      { "key": "hashtags", "fa": "هشتگ و کلیدواژه", "en": "Hashtags" },
+      { "key": "ideas", "fa": "ایده و تقویم محتوا", "en": "Content ideas & calendar" },
+      { "key": "replies", "fa": "پاسخ به کامنت و دایرکت", "en": "Replies & DMs" },
+      { "key": "bio", "fa": "بیو و پروفایل", "en": "Bio & profile" }
+    ]},
+    { "key": "writing", "fa": "نوشتن و ایمیل", "en": "Writing & email", "icon": "mail", "desc_fa": "ایمیل، بازنویسی، خلاصه، ویرایش و ترجمه.", "subs": [
+      { "key": "email", "fa": "ایمیل و نامه", "en": "Emails & letters" },
+      { "key": "rewrite", "fa": "بازنویسی و لحن", "en": "Rewrite & tone" },
+      { "key": "summarize", "fa": "خلاصه‌سازی", "en": "Summarize" },
+      { "key": "proofread", "fa": "ویرایش و غلط‌گیری", "en": "Proofreading" },
+      { "key": "translate", "fa": "ترجمه", "en": "Translation" },
+      { "key": "article", "fa": "مقاله و داستان", "en": "Articles & stories" },
+      { "key": "speech", "fa": "سخنرانی و متن مناسبتی", "en": "Speeches & occasions" }
+    ]},
+    { "key": "code", "fa": "کدنویسی و دیباگ", "en": "Coding & debugging", "icon": "quickcode", "desc_fa": "خطا، بازبینی، تست، SQL، مستندسازی و وب.", "subs": [
+      { "key": "debug", "fa": "دیباگ و رفع خطا", "en": "Debugging" },
+      { "key": "review", "fa": "بازبینی کد", "en": "Code review" },
+      { "key": "test", "fa": "تست‌نویسی", "en": "Testing" },
+      { "key": "refactor", "fa": "ریفکتور و بهینه‌سازی", "en": "Refactor & optimize" },
+      { "key": "sql", "fa": "دیتابیس و SQL", "en": "Databases & SQL" },
+      { "key": "docs", "fa": "مستندات و کامیت", "en": "Docs & commits" },
+      { "key": "explain", "fa": "توضیح و تبدیل کد", "en": "Explain & convert code" },
+      { "key": "web", "fa": "وردپرس، لاراول و فرانت", "en": "WordPress, Laravel & frontend" },
+      { "key": "security", "fa": "امنیت", "en": "Security" }
+    ]},
+    { "key": "seo", "fa": "سئو و محتوا", "en": "SEO & content", "icon": "seo", "desc_fa": "کلیدواژه، متا، ساختار مقاله، توضیح محصول و لندینگ.", "subs": [
+      { "key": "keywords", "fa": "تحقیق کلیدواژه", "en": "Keyword research" },
+      { "key": "meta", "fa": "عنوان و متا", "en": "Titles & meta" },
+      { "key": "outline", "fa": "ساختار و نوشتن مقاله", "en": "Outlines & articles" },
+      { "key": "product", "fa": "توضیح محصول", "en": "Product descriptions" },
+      { "key": "landing", "fa": "لندینگ و متن فروش", "en": "Landing copy" },
+      { "key": "technical", "fa": "سئو فنی و لینک", "en": "Technical SEO & links" },
+      { "key": "local", "fa": "سئو محلی", "en": "Local SEO" }
+    ]},
+    { "key": "business", "fa": "کسب‌وکار و فروش", "en": "Business & sales", "icon": "business", "desc_fa": "فروش، بازاریابی، مشتری، قیمت و استراتژی.", "subs": [
+      { "key": "sales", "fa": "فروش و مذاکره", "en": "Sales & negotiation" },
+      { "key": "marketing", "fa": "بازاریابی و تبلیغ", "en": "Marketing & ads" },
+      { "key": "customer", "fa": "پاسخ به مشتری", "en": "Customer support" },
+      { "key": "strategy", "fa": "استراتژی و تحلیل", "en": "Strategy & analysis" },
+      { "key": "pricing", "fa": "قیمت‌گذاری", "en": "Pricing" },
+      { "key": "plan", "fa": "طرح کسب‌وکار", "en": "Business plans" },
+      { "key": "finance", "fa": "مالی و حساب‌داری", "en": "Finance" }
+    ]},
+    { "key": "study", "fa": "درس و یادگیری", "en": "Study & learning", "icon": "education", "desc_fa": "توضیح ساده، آزمون، فلش‌کارت، برنامه‌ی مطالعه و کنکور.", "subs": [
+      { "key": "explain", "fa": "توضیح ساده", "en": "Explain simply" },
+      { "key": "quiz", "fa": "آزمون و تمرین", "en": "Quizzes & practice" },
+      { "key": "flashcards", "fa": "فلش‌کارت و حفظ", "en": "Flashcards & memory" },
+      { "key": "plan", "fa": "برنامه‌ی مطالعه", "en": "Study plans" },
+      { "key": "language", "fa": "یادگیری زبان", "en": "Language learning" },
+      { "key": "summary", "fa": "خلاصه‌ی درس", "en": "Lesson summaries" },
+      { "key": "exam", "fa": "کنکور و امتحان", "en": "Exams" }
+    ]},
+    { "key": "career", "fa": "رزومه و شغل", "en": "Career & jobs", "icon": "career", "desc_fa": "رزومه، لینکدین، مصاحبه، فریلنسری و مسیر شغلی.", "subs": [
+      { "key": "resume", "fa": "رزومه", "en": "Resume" },
+      { "key": "linkedin", "fa": "لینکدین و پروفایل", "en": "LinkedIn & profile" },
+      { "key": "cover", "fa": "نامه‌ی پوششی", "en": "Cover letters" },
+      { "key": "interview", "fa": "مصاحبه‌ی شغلی", "en": "Interviews" },
+      { "key": "freelance", "fa": "فریلنسری", "en": "Freelancing" },
+      { "key": "growth", "fa": "مسیر و رشد شغلی", "en": "Career growth" },
+      { "key": "salary", "fa": "حقوق و مذاکره", "en": "Salary & negotiation" }
+    ]},
+    { "key": "life", "fa": "زندگی روزمره", "en": "Everyday life", "icon": "life", "desc_fa": "آشپزی، سلامت، بودجه، سفر، خانواده و عادت‌ها.", "subs": [
+      { "key": "food", "fa": "غذا و آشپزی", "en": "Food & cooking" },
+      { "key": "health", "fa": "ورزش و سلامت", "en": "Fitness & health" },
+      { "key": "money", "fa": "پول و بودجه", "en": "Money & budget" },
+      { "key": "travel", "fa": "سفر", "en": "Travel" },
+      { "key": "family", "fa": "خانواده و کودک", "en": "Family & kids" },
+      { "key": "home", "fa": "خانه و نظم", "en": "Home & organizing" },
+      { "key": "habits", "fa": "عادت و برنامه‌ریزی", "en": "Habits & planning" }
+    ]},
+    { "key": "fun", "fa": "سرگرمی و بازی", "en": "Fun & games", "icon": "game", "desc_fa": "بازی متنی، معما، داستان، شعر، نقش‌آفرینی و مناسبت‌ها.", "subs": [
+      { "key": "games", "fa": "بازی متنی", "en": "Text games" },
+      { "key": "riddles", "fa": "معما و چیستان", "en": "Riddles & trivia" },
+      { "key": "story", "fa": "داستان", "en": "Stories" },
+      { "key": "poetry", "fa": "شعر", "en": "Poetry" },
+      { "key": "roleplay", "fa": "نقش‌آفرینی", "en": "Roleplay" },
+      { "key": "occasions", "fa": "مناسبت‌ها و تبریک", "en": "Occasions & greetings" },
+      { "key": "recommend", "fa": "پیشنهاد فیلم و کتاب", "en": "Movie & book picks" }
+    ]},
+    { "key": "data", "fa": "اکسل و داده", "en": "Excel & data", "icon": "db", "desc_fa": "فرمول اکسل و گوگل‌شیت، تحلیل، نمودار و پاک‌سازی داده.", "subs": [
+      { "key": "formulas", "fa": "فرمول اکسل و شیت", "en": "Excel & Sheets formulas" },
+      { "key": "analysis", "fa": "تحلیل داده", "en": "Data analysis" },
+      { "key": "charts", "fa": "نمودار و گزارش", "en": "Charts & reports" },
+      { "key": "cleaning", "fa": "پاک‌سازی و تبدیل", "en": "Cleaning & transforming" },
+      { "key": "automation", "fa": "ماکرو و خودکارسازی", "en": "Macros & automation" },
+      { "key": "dashboard", "fa": "داشبورد و KPI", "en": "Dashboards & KPIs" }
+    ]},
+    { "key": "ai", "fa": "پرامپت‌نویسی و AI", "en": "Prompting & AI", "icon": "ai", "desc_fa": "بهبود پرامپت، پرامپت سیستمی، ایجنت و کار با مدل‌ها.", "subs": [
+      { "key": "improve", "fa": "بهبود پرامپت", "en": "Improve a prompt" },
+      { "key": "system", "fa": "پرامپت سیستمی و نقش", "en": "System prompts & roles" },
+      { "key": "agents", "fa": "ایجنت و خودکارسازی", "en": "Agents & automation" },
+      { "key": "image-prompt", "fa": "ساخت پرامپت تصویر", "en": "Image prompt builders" },
+      { "key": "research", "fa": "تحقیق و جستجو با AI", "en": "Research with AI" },
+      { "key": "compare", "fa": "مقایسه و انتخاب مدل", "en": "Comparing models" }
+    ]}
+  ]
+}
