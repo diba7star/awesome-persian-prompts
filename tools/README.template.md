@@ -2,13 +2,13 @@
 
 # پرامپت‌های کوتاه فارسی برای هوش مصنوعی 🇮🇷
 
-**{{TOTAL}} پرامپت یک‌خطی آماده، فارسی و انگلیسی، در {{CATS}} دسته و {{SUBS}} زیردسته** — برای ChatGPT، Claude، Gemini، DeepSeek، Midjourney، Veo، Sora و هر ابزار دیگری.
+**{{TOTAL}} پرامپت یک‌خطی آماده، به سه زبان فارسی، انگلیسی و عربی، در {{CATS}} دسته و {{SUBS}} زیردسته** — برای ChatGPT، Claude، Gemini، DeepSeek، Midjourney، Veo، Sora و هر ابزار دیگری.
 
 یک خط، یک نتیجه: کپی کنید، جای خالی `[...]` را پر کنید، بچسبانید. همه‌ی پرامپت‌ها با مجوز **CC0** (مالکیت عمومی) منتشر شده‌اند؛ استفاده‌ی شخصی و تجاری بدون نیاز به اجازه آزاد است.
 
 🔎 **نسخه‌ی قابل‌جستجو با پرکردن خودکار جاهای خالی و دکمه‌ی «باز کردن در ChatGPT»:** [di9.ir/blog/prompts/short](https://di9.ir/blog/prompts/short)
 
-[![CC0](https://img.shields.io/badge/license-CC0-green)](LICENSE) ![prompts](https://img.shields.io/badge/prompts-{{TOTAL_EN}}-orange) ![language](https://img.shields.io/badge/lang-فارسی%20%2B%20English-blue)
+[![CC0](https://img.shields.io/badge/license-CC0-green)](LICENSE) ![prompts](https://img.shields.io/badge/prompts-{{TOTAL_EN}}-orange) ![language](https://img.shields.io/badge/lang-فارسی%20%2B%20English%20%2B%20العربية-blue)
 
 ## دسته‌ها
 
@@ -53,7 +53,7 @@
 
 ## Persian AI short prompts (English)
 
-**{{TOTAL_EN}} ready-to-use one-line prompts in Persian (Farsi) and English** for ChatGPT, Claude, Gemini, DeepSeek, Midjourney, DALL·E, Veo, Sora, Runway and more — organized into categories and sub-categories, released under **CC0** (public domain).
+**{{TOTAL_EN}} ready-to-use one-line prompts in Persian (Farsi), English and Arabic** for ChatGPT, Claude, Gemini, DeepSeek, Midjourney, DALL·E, Veo, Sora, Runway and more — organized into categories and sub-categories, released under **CC0** (public domain).
 
 Browse, fill placeholders and open them directly in ChatGPT/Claude at **[di9.ir/blog/prompts/short](https://di9.ir/blog/prompts/short)**. Use `dist/all.json` to embed the whole set in your own app. Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 

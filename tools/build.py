@@ -54,7 +54,10 @@ def validate(cats, items, errors):
         bad = set(r.get('tools') or []) - TOOLS
         if bad:
             errors.append(f'{where}: unknown tools {sorted(bad)}')
-        for f in ('fa', 'en'):
+        for f in ('title_en', 'summary_en', 'ar', 'title_ar', 'summary_ar'):
+            if f in r and not r.get(f):
+                errors.append(f'{where}: empty "{f}"')
+        for f in ('fa', 'en', 'ar'):
             if len(r.get(f) or '') > 600:
                 errors.append(f'{where}: "{f}" longer than 600 characters')
     return errors
