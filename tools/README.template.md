@@ -41,6 +41,15 @@
 - `dist/all.json` — همه‌ی پرامپت‌ها در یک فایل، برای برنامه‌ها و API
 - `tools/build.py` — اعتبارسنجی و ساخت همین README
 
+## اسکیل‌های رایگان برای Claude
+
+علاوه بر پرامپت‌ها، چهار اسکیل رایگان (`SKILL.md`) برای Claude Code و اپ‌های Claude در پوشه‌ی [`skills/`](skills/README.md) هست. هر اسکیل به فارسی، انگلیسی یا عربی جواب می‌دهد و با خروجی واقعی تست شده است:
+
+- [بومی‌سازی مقاله به فارسی و عربی](skills/rtl-article-localizer/SKILL.md)
+- [رفع و توضیح فرمول اکسل](skills/excel-formula-fixer/SKILL.md)
+- [نوشتن پست لینکدین به سه زبان](skills/trilingual-linkedin-post-writer/SKILL.md)
+- [ساخت و توضیح Regex](skills/regex-builder-explainer/SKILL.md)
+
 ## مشارکت
 
 پرامپت خوب دارید؟ [CONTRIBUTING.md](CONTRIBUTING.md) را بخوانید و Pull Request بفرستید؛ GitHub Actions خودکار ساختار را بررسی می‌کند. هر پرامپت تأییدشده ظرف یک روز روی [di9.ir](https://di9.ir/blog/prompts/short) هم منتشر می‌شود.
@@ -56,5 +65,7 @@
 **{{TOTAL_EN}} ready-to-use one-line prompts in Persian (Farsi), English and Arabic** for ChatGPT, Claude, Gemini, DeepSeek, Midjourney, DALL·E, Veo, Sora, Runway and more — organized into categories and sub-categories, released under **CC0** (public domain).
 
 Browse, fill placeholders and open them directly in ChatGPT/Claude at **[di9.ir/blog/prompts/short](https://di9.ir/blog/prompts/short)**. Use `dist/all.json` to embed the whole set in your own app. Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
+
+**Free Claude skills:** the [`skills/`](skills/README.md) folder has four free `SKILL.md` agent skills that work in English, Persian and Arabic: an article localizer, an Excel formula fixer, a LinkedIn post writer and a regex builder. Each comes with real test outputs.
 
 Maintained by [Debug (di9.ir)](https://di9.ir).
